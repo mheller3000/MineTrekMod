@@ -1,1 +1,14 @@
 /bin/
+/.DS_Store
+/run/
+/build/
+.gradle/
+build.gradle
+gradle.properties
+gradlew
+gradlew.bat
+MineTrekMod_Client.launch
+MineTrekMod_Server.launch
+org.eclipse.jdt.core.prefs-.settings
+README.txt
+SetupWorkspace.sh
