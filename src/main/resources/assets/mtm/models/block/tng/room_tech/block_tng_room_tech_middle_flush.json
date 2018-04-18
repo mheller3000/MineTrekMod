@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "mtm:blocks/tng/rooms/tech/tng_room_tech_middle_flush",
+        "down": "mtm:blocks/tng/tng_wall_silver",
+        "up": "mtm:blocks/tng/tng_wall_silver",
+        "north": "mtm:blocks/tng/rooms/tech/tng_room_tech_middle_flush",
+        "east": "mtm:blocks/tng/rooms/tech/tng_room_tech_middle_flush",
+        "south": "mtm:blocks/tng/rooms/pale/tng_room_pale_middle_flush",
+        "west": "mtm:blocks/tng/rooms/tech/tng_room_tech_middle_flush"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "mtm:blocks/tng/tng_wall_pale",
+        "side": "mtm:blocks/tng/rooms/pale/tng_room_pale_btm_flush"
+    }
+}

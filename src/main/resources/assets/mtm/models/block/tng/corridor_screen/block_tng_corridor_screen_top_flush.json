@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "mtm:blocks/tng/corridors/screen/tng_corridor_screen_top_flush",
+        "down": "mtm:blocks/tng/tng_wall_silver",
+        "up": "mtm:blocks/tng/tng_wall_tan",
+        "north": "mtm:blocks/tng/corridors/screen/tng_corridor_screen_top_flush",
+        "east": "mtm:blocks/tng/corridors/screen/tng_corridor_screen_top_flush",
+        "south": "mtm:blocks/tng/rooms/pale/tng_room_pale_top_flush",
+        "west": "mtm:blocks/tng/corridors/screen/tng_corridor_screen_top_flush"
+    }
+}

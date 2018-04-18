@@ -1,0 +1,16 @@
+[
+{
+"modid": "mtm",
+"name": "MineTrekMod",
+"description": "The Official MineTrek Mod for the MineTrek Community Server Project with Custom Blocks designed for MineTrek Builders.",
+"version": "1.0",
+"mcversion": "1.12.2",
+"url": "minetrek.net",
+"updateUrl": "",
+"authorList": ["mheller3000", "mdtaUK"],
+"credits": "All copyrights belong to CBS and Paramount Pictures with a very special mention to The MineTrek Community for Creating Such an Amazing Project",
+"logoFile": "",
+"screenshots": [],
+"dependencies": []
+}
+]

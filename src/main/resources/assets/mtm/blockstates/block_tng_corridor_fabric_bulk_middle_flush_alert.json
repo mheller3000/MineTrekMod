@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "mtm:tng/corridor_fabric_bulk/block_tng_corridor_fabric_bulk_middle_flush_alert" },
+        "facing=south": { "model": "mtm:tng/corridor_fabric_bulk/block_tng_corridor_fabric_bulk_middle_flush_alert", "y": 180 },
+        "facing=west":  { "model": "mtm:tng/corridor_fabric_bulk/block_tng_corridor_fabric_bulk_middle_flush_alert", "y": 270 },
+        "facing=east":  { "model": "mtm:tng/corridor_fabric_bulk/block_tng_corridor_fabric_bulk_middle_flush_alert", "y": 90 }
+    }
+}

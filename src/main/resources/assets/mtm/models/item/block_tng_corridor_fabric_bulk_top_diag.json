@@ -1,0 +1,10 @@
+{
+    "parent": "mtm:block/tng/corridor_fabric_bulk/block_tng_corridor_fabric_bulk_top_diag",
+    "display": {
+        "gui": {
+            "rotation": [ 30, 180, 0 ],
+            "translation": [ 0, 0, 0],
+            "scale":[ 0.65, 0.65, 0.65 ]
+            }
+    }
+}

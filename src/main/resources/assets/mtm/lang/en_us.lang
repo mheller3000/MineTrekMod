@@ -1,0 +1,381 @@
+// Default en-us strings for localization
+
+
+// CREATIVE TABS
+itemGroup.tab_ent=Enterprise
+itemGroup.tab_dsc=Discovery
+itemGroup.tab_tos=TOS
+itemGroup.tab_movie=TOS/TMP Movies
+itemGroup.tab_tng=TNG
+itemGroup.tab_ds9=DS9
+itemGroup.tab_voy=Voyager
+itemGroup.tab_tngmovie=TNG Movies
+itemGroup.tab_25th=25th Century
+itemGroup.tab_26th=26th Century
+itemGroup.tab_29thto31st=29th-31st Century
+itemGroup.tab_jj=JJ Trek
+itemGroup.tab_misc=Misc. Trek
+//
+
+
+// CARPET AND FABRIC BLOCKS
+tile.block_trek_carpet_teal.name=Trek Carpet | Teal
+tile.block_trek_carpet_tan.name=Trek Carpet | Tan
+tile.block_trek_carpet_deep_red.name=Trek Carpet | Deep Red
+tile.block_trek_carpet_dark_grey.name=Trek Carpet | Dark Grey
+
+/* Carpet Corner */
+tile.block_trek_carpet_corner_teal.name=Trek Carpet | Corner | Teal
+tile.block_trek_carpet_corner_tan.name=Trek Carpet | Corner | Tan
+tile.block_trek_carpet_corner_deep_red.name=Trek Carpet | Corner | Deep Red
+tile.block_trek_carpet_corner_dark_grey.name=Trek Carpet | Corner | Dark Grey
+
+/* Fabric */
+tile.block_fabric_teal.name=Trek Fabric | Teal
+tile.block_fabric_tan.name=Trek Fabric | Tan
+tile.block_fabric_deep_red.name=Trek Fabric | Deep Red
+tile.block_fabric_dark_grey.name=Trek Fabric | Dark Grey
+//
+
+
+
+// TNG BLOCKS
+/* TNG Wall Blocks */
+tile.block_tng_tan.name=TNG Wall | Tan
+tile.block_tng_silver.name=TNG Wall | Silver
+tile.block_tng_pale.name=TNG Wall | Pale
+/**/
+/* TNG Warp Core Blocks */
+tile.block_tng_core_a.name=TNG Warp Core | A
+tile.block_tng_core_b.name=TNG Warp Core | B
+tile.block_tng_core_c.name=TNG Warp Core | C
+/**/
+/* TNG Room Pale Blocks */
+tile.block_tng_room_pale_top_flush.name=TNG Room | Pale | Top
+tile.block_tng_room_pale_middle_flush.name=TNG Room | Pale | Middle
+tile.block_tng_room_pale_btm_flush.name=TNG Room | Pale | Bottom
+//
+tile.block_tng_room_pale_top_left_brace.name=TNG Room | Pale | Top | Left
+tile.block_tng_room_pale_middle_left_brace.name=TNG Room | Pale | Middle | Left
+tile.block_tng_room_pale_btm_left_brace.name=TNG Room | Pale | Bottom | Left
+//
+tile.block_tng_room_pale_top_right_brace.name=TNG Room | Pale | Top | Right
+tile.block_tng_room_pale_middle_right_brace.name=TNG Room | Pale | Middle | Right
+tile.block_tng_room_pale_btm_right_brace.name=TNG Room | Pale | Bottom | Right
+//
+tile.block_tng_room_pale_top_split.name=TNG Room | Pale | Top | Split
+tile.block_tng_room_pale_middle_split.name=TNG Room | Pale | Middle | Split
+tile.block_tng_room_pale_btm_split.name=TNG Room | Pale | Bottom | Split
+//
+tile.block_tng_room_pale_btm_diag.name=TNG Room | Pale | Bottom | Diagonal
+tile.block_tng_room_pale_middle_diag.name=TNG Room | Pale | Middle | Diagonal
+tile.block_tng_room_pale_top_diag.name=TNG Room | Pale | Top | Diagonal
+/-/
+tile.block_tng_room_pale_btm_split_diag.name=TNG Room | Pale | Bottom | Split | Diagonal
+tile.block_tng_room_pale_middle_split_diag.name=TNG Room | Pale | Middle | Split | Diagonal
+tile.block_tng_room_pale_top_split_diag.name=TNG Room | Pale | Top | Split | Diagonal
+//
+/**/
+/* TNG Corridor with Screen Blocks */
+tile.block_tng_corridor_screen_top_left_brace.name=TNG Corridor | Screen | Top | Left
+tile.block_tng_corridor_screen_middle_left_brace.name=TNG Corridor | Screen | Middle | Left
+tile.block_tng_corridor_screen_middle_left_brace_alert.name=TNG Corridor | Screen | Middle | Left | Red Alert
+tile.block_tng_corridor_screen_btm_left_brace.name=TNG Corridor | Screen | Bottom | Left
+//
+tile.block_tng_corridor_screen_top_flush.name=TNG Corridor | Screen | Top
+tile.block_tng_corridor_screen_middle_flush.name=TNG Corridor | Screen | Middle
+tile.block_tng_corridor_screen_middle_flush_alert.name=TNG Corridor | Screen | Middle | Red Alert
+tile.block_tng_corridor_screen_middle_flush_alt0.name=TNG Corridor | Screen | Middle | LCARS 1
+tile.block_tng_corridor_screen_middle_flush_alt1.name=TNG Corridor | Screen | Middle | LCARS 2
+tile.block_tng_corridor_screen_btm_flush.name=TNG Corridor | Screen | Bottom
+//
+tile.block_tng_corridor_screen_top_right_brace.name=TNG Corridor | Screen | Top | Right
+tile.block_tng_corridor_screen_middle_right_brace.name=TNG Corridor | Screen | Middle | Right
+tile.block_tng_corridor_screen_middle_right_brace_alert.name=TNG Corridor | Screen | Middle | Right | Red Alert
+tile.block_tng_corridor_screen_btm_right_brace.name=TNG Corridor | Screen | Bottom | Right
+//
+tile.block_tng_corridor_screen_top_split.name=TNG Corridor | Screen | Top | Split
+tile.block_tng_corridor_screen_middle_split.name=TNG Corridor | Screen | Middle | Split
+tile.block_tng_corridor_screen_middle_split_alert.name=TNG Corridor | Screen | Middle | Split | Red Alert
+tile.block_tng_corridor_screen_btm_split.name=TNG Corridor | Screen | Bottom | Split
+//
+tile.block_tng_corridor_screen_btm_diag.name=TNG Corridor | Screen | Bottom | Diagonal
+tile.block_tng_corridor_screen_middle_diag.name=TNG Corridor | Screen | Middle | Diagonal
+tile.block_tng_corridor_screen_middle_alert_diag.name=TNG Corridor | Screen | Middle | Red Alert | Diagonal
+tile.block_tng_corridor_screen_top_diag.name=TNG Corridor | Screen | Top | Diagonal
+/-/
+tile.block_tng_corridor_screen_btm_split_diag.name=TNG Corridor | Screen | Bottom | Split | Diagonal
+tile.block_tng_corridor_screen_middle_split_diag.name=TNG Corridor | Screen | Middle | Split | Diagonal
+tile.block_tng_corridor_screen_middle_split_alert_diag.name=TNG Corridor | Screen | Middle | Red Alert | Split | Diagonal
+tile.block_tng_corridor_screen_top_split_diag.name=TNG Corridor | Screen | Top | Split | Diagonal
+//
+/**/
+/*  
+ *  TNG Corridor with Bulkheads Blocks
+ */
+tile.block_tng_corridor_bulk_top_left_brace.name=TNG Corridor | Bulkhead | Top | Left
+tile.block_tng_corridor_bulk_middle_left_brace.name=TNG Corridor | Bulkhead | Middle | Left
+tile.block_tng_corridor_bulk_btm_left_brace.name=TNG Corridor | Bulkhead | Bottom | Left
+//
+tile.block_tng_corridor_bulk_top_flush.name=TNG Corridor | Bulkhead | Top
+tile.block_tng_corridor_bulk_middle_flush.name=TNG Corridor | Bulkhead | Middle
+tile.block_tng_corridor_bulk_btm_flush.name=TNG Corridor | Bulkhead | Bottom
+//
+tile.block_tng_corridor_bulk_top_right_brace.name=TNG Corridor | Bulkhead | Top | Right
+tile.block_tng_corridor_bulk_middle_right_brace.name=TNG Corridor | Bulkhead | Middle | Right
+tile.block_tng_corridor_bulk_middle_right_brace_alt.name=TNG Corridor | Bulkhead | Middle | Right | No Label
+tile.block_tng_corridor_bulk_btm_right_brace.name=TNG Corridor | Bulkhead | Bottom | Right
+tile.block_tng_corridor_bulk_btm_right_brace_alt.name=TNG Corridor | Bulkhead | Bottom | Right | No Label
+//
+tile.block_tng_corridor_bulk_top_split.name=TNG Corridor | Bulkhead | Top | Split
+tile.block_tng_corridor_bulk_middle_split.name=TNG Corridor | Bulkhead | Middle | Split
+tile.block_tng_corridor_bulk_middle_split_alt.name=TNG Corridor | Bulkhead | Middle | Split | No Label
+tile.block_tng_corridor_bulk_btm_split.name=TNG Corridor | Bulkhead | Bottom | Split
+tile.block_tng_corridor_bulk_btm_split_alt.name=TNG Corridor | Bulkhead | Bottom | Split | No Label
+//
+tile.block_tng_corridor_bulk_btm_diag.name=TNG Corridor | Bulkhead | Bottom | Diagonal
+tile.block_tng_corridor_bulk_middle_diag.name=TNG Corridor | Bulkhead | Middle | Diagonal
+tile.block_tng_corridor_bulk_top_diag.name=TNG Corridor | Bulkhead | Top | Diagonal
+/-/
+tile.block_tng_corridor_bulk_btm_split_diag.name=TNG Corridor | Bulkhead | Bottom | Split | Diagonal
+tile.block_tng_corridor_bulk_middle_split_diag.name=TNG Corridor | Bulkhead | Middle | Split | Diagonal
+tile.block_tng_corridor_bulk_top_split_diag.name=TNG Corridor | Bulkhead | Top | Split | Diagonal
+//
+/**/
+/*  
+*  TNG Corridor with Fabric Bulkheads Blocks
+*/
+tile.block_tng_corridor_fabric_bulk_btm_left.name=TNG Corridor | Fabric | Bulkhead | Bottom | Left
+tile.block_tng_corridor_fabric_bulk_btm_right.name=TNG Corridor | Fabric | Bulkhead | Bottom | Right
+tile.block_tng_corridor_fabric_bulk_btm_flush=TNG Corridor | Fabric | Bulkhead | Bottom | Flush
+tile.block_tng_corridor_fabric_bulk_btm_split.name=TNG Corridor | Fabric | Bulkhead | Bottom | Split
+//
+tile.block_tng_corridor_fabric_bulk_middle_left.name=TNG Corridor | Fabric | Bulkhead | Middle | Left
+tile.block_tng_corridor_fabric_bulk_middle_right.name=TNG Corridor | Fabric | Bulkhead | Middle | Bottom
+tile.block_tng_corridor_fabric_bulk_middle_flush.name=TNG Corridor | Fabric | Bulkhead | Middle | Flush
+tile.block_tng_corridor_fabric_bulk_middle_split.name=TNG Corridor | Fabric | Bulkhead | Middle | Split
+tile.block_tng_corridor_fabric_bulk_middle_left_alert.name=TNG Corridor | Fabric | Bulkhead | Middle | Left | Alert
+tile.block_tng_corridor_fabric_bulk_middle_right_alert.name=TNG Corridor | Fabric | Bulkhead | Middle | Right | Alert
+tile.block_tng_corridor_fabric_bulk_middle_flush_alert.name=TNG Corridor | Fabric | Bulkhead | Middle | Flush | Alert
+tile.block_tng_corridor_fabric_bulk_middle_split_alert.name=TNG Corridor | Fabric | Bulkhead | Middle | Split | Alert
+//
+tile.block_tng_corridor_fabric_bulk_top_left.name=TNG Corridor | Fabric | Bulkhead | Top | Left
+tile.block_tng_corridor_fabric_bulk_top_right.name=TNG Corridor | Fabric | Bulkhead | Top | Right
+tile.block_tng_corridor_fabric_bulk_top_flush.name=TNG Corridor | Fabric | Bulkhead | Top | Flush
+tile.block_tng_corridor_fabric_bulk_top_split.name=TNG Corridor | Fabric | Bulkhead | Top | Split
+/-/
+tile.block_tng_corridor_fabric_bulk_btm_diag.name=TNG Corridor | Fabric | Bulkhead | Bottom | Diagonal
+tile.block_tng_corridor_fabric_bulk_middle_diag_alert.name=TNG Corridor | Fabric | Bulkhead | Middle | Diagonal
+tile.block_tng_corridor_fabric_bulk_middle_diag.name=TNG Corridor | Fabric | Bulkhead | Middle | Diagonal
+tile.block_tng_corridor_fabric_bulk_top_diag.name=TNG Corridor | Fabric | Bulkhead | Top | Diagonal
+//
+/* TNG Angled Corridor Blocks */
+tile.block_tng_corridor_angled_btm.name=TNG Corridor | Angled | Bottom
+tile.block_tng_corridor_angled_btm_left.name=TNG Corridor | Angled | Bottom | Left
+tile.block_tng_corridor_angled_btm_right.name=TNG Corridor | Angled | Bottom | Right
+tile.block_tng_corridor_angled_btm_split.name=TNG Corridor | Angled | Bottom | Split
+//
+tile.block_tng_corridor_angled_middle.name=TNG Corridor | Angled | Middle
+tile.block_tng_corridor_angled_middle_left.name=TNG Corridor | Angled | Middle | Left
+tile.block_tng_corridor_angled_middle_right.name=TNG Corridor | Angled | Middle | Right
+tile.block_tng_corridor_angled_middle_split.name=TNG Corridor | Angled | Middle | Split
+//
+tile.block_tng_corridor_angled_middle_alert.name=TNG Corridor | Angled | Middle | Red Alert
+tile.block_tng_corridor_angled_middle_left_alert.name=TNG Corridor | Angled | Middle | Left | Red Alert
+tile.block_tng_corridor_angled_middle_right_alert.name=TNG Corridor | Angled | Middle | Right | Red Alert
+tile.block_tng_corridor_angled_middle_split_alert.name=TNG Corridor | Angled | Middle | Split | Red Alert
+//
+tile.block_tng_corridor_angled_top.name=TNG Corridor | Angled | Top
+tile.block_tng_corridor_angled_top_left.name=TNG Corridor | Angled | Top | Left
+tile.block_tng_corridor_angled_top_right.name=TNG Corridor | Angled | Top | Right
+tile.block_tng_corridor_angled_top_split.name=TNG Corridor | Angled | Top | Split
+//
+//
+/* TNG Angled Cargo Corridor Blocks */
+tile.block_tng_corridor_angled_cargo_btm_left.name=TNG Corridor | Cargo | Angled | Bottom | Left
+tile.block_tng_corridor_angled_cargo_btm_right.name=TNG Corridor | Cargo | Angled | Bottom | Right
+tile.block_tng_corridor_angled_cargo_btm_split.name=TNG Corridor | Cargo | Angled | Bottom | Split
+tile.block_tng_corridor_angled_cargo_btm_flush.name=TNG Corridor | Cargo | Angled | Bottom | Flush
+//
+tile.block_tng_corridor_angled_cargo_btm_alert.name=TNG Corridor | Cargo | Angled | Bottom | Red Alert
+tile.block_tng_corridor_angled_cargo_btm_left_alert.name=TNG Corridor | Cargo | Angled | Bottom | Left | Red Alert
+tile.block_tng_corridor_angled_cargo_btm_right_alert.name=TNG Corridor | Cargo | Angled | Bottom | Right | Red Alert
+tile.block_tng_corridor_angled_cargo_btm_split_alert.name=TNG Corridor | Cargo | Angled | Bottom | Split | Red Alert
+tile.block_tng_corridor_angled_cargo_btm_flush_alert.name=TNG Corridor | Cargo | Angled | Bottom | Flush | Red Alert
+//
+/**/
+/* TNG Corridor with Fabric Blocks */
+tile.block_tng_corridor_fabric_btm.name=TNG Corridor | Fabric | Bottom
+tile.block_tng_corridor_fabric_middle.name=TNG Corridor | Fabric | Middle
+tile.block_tng_corridor_fabric_top.name=TNG Corridor | Fabric | Top
+//
+tile.block_tng_corridor_fabric_btm_left.name=TNG Corridor | Fabric | Bottom | Left
+tile.block_tng_corridor_fabric_btm_right.name=TNG Corridor | Fabric | Bottom | Right
+tile.block_tng_corridor_fabric_btm_window.name=TNG Corridor | Fabric | Bottom | Window
+//
+tile.block_tng_corridor_fabric_btm_left_window.name=TNG Corridor | Fabric | Bottom | Left | Window
+tile.block_tng_corridor_fabric_btm_right_window.name=TNG Corridor | Fabric | Bottom | Right | Window
+//
+tile.block_tng_corridor_fabric_middle_left.name=TNG Corridor | Fabric | Middle | Left
+tile.block_tng_corridor_fabric_middle_right.name=TNG Corridor | Fabric | Middle | Right
+tile.block_tng_corridor_fabric_middle_window.name=TNG Corridor | Fabric | Middle | Window
+//
+tile.block_tng_corridor_fabric_middle_left_window.name=TNG Corridor | Fabric | Middle | Left | Window
+tile.block_tng_corridor_fabric_middle_right_window.name=TNG Corridor | Fabric | Middle | Right | Window
+//
+tile.block_tng_corridor_fabric_top_left.name=TNG Corridor | Fabric | Top | Left
+tile.block_tng_corridor_fabric_top_right.name=TNG Corridor | Fabric | Top | Right
+tile.block_tng_corridor_fabric_top_window.name=TNG Corridor | Fabric | Top | Window
+//
+tile.block_tng_corridor_fabric_top_left_window.name=TNG Corridor | Fabric | Top | Left | Window
+tile.block_tng_corridor_fabric_top_right_window.name=TNG Corridor | Fabric | Top | Right | Window
+/-/
+tile.block_tng_corridor_fabric_btm_window_diag.name=TNG Corridor | Fabric | Bottom | Window | Diagonal
+tile.block_tng_corridor_fabric_middle_window_diag.name=TNG Corridor | Fabric | Middle | Window | Diagonal
+tile.block_tng_corridor_fabric_top_window_diag.name=TNG Corridor | Fabric | Top | Window | Diagonal
+//
+/**/
+/* TNG Corridor with Fabric and Bulged Screens Blocks */
+tile.block_tng_corridor_fabric_screen_btm_left.name=TNG Corridor | Fabric | Screen | Bottom | Left
+tile.block_tng_corridor_fabric_screen_btm_right.name=TNG Corridor | Fabric | Screen | Bottom | Right
+tile.block_tng_corridor_fabric_screen_btm_flush.name=TNG Corridor | Fabric | Screen | Bottom | Flush
+//
+tile.block_tng_corridor_fabric_screen_middle_left.name=TNG Corridor | Fabric | Screen | Middle | Left
+tile.block_tng_corridor_fabric_screen_middle_right.name=TNG Corridor | Fabric | Screen | Middle | Right
+tile.block_tng_corridor_fabric_screen_middle_flush.name=TNG Corridor | Fabric | Screen | Middle | Flush
+//
+tile.block_tng_corridor_fabric_screen_top_left.name=TNG Corridor | Fabric | Screen | Top | Left
+tile.block_tng_corridor_fabric_screen_top_right.name=TNG Corridor | Fabric | Screen | Top | Right
+tile.block_tng_corridor_fabric_screen_top_flush.name=TNG Corridor | Fabric | Screen | Top | Flush
+//
+/**/
+/* TNG Corridor with Fabric and Flat Screens Blocks */
+tile.block_tng_corridor_fabric_screen_flat_btm_left.name=TNG Corridor | Fabric | Screen | Flat | Bottom | Left
+tile.block_tng_corridor_fabric_screen_flat_btm_right.name=TNG Corridor | Fabric | Screen | Flat | Bottom | Right
+tile.block_tng_corridor_fabric_screen_flat_btm_flush.name=TNG Corridor | Fabric | Screen | Flat | Bottom | Flush
+//
+tile.block_tng_corridor_fabric_screen_flat_middle_left.name=TNG Corridor | Fabric | Screen | Flat | Middle | Left
+tile.block_tng_corridor_fabric_screen_flat_middle_right.name=TNG Corridor | Fabric | Screen | Flat | Middle | Right
+tile.block_tng_corridor_fabric_screen_flat_middle_flush.name=TNG Corridor | Fabric | Screen | Flat | Middle | Flush
+//
+tile.block_tng_corridor_fabric_screen_flat_top_left.name=TNG Corridor | Fabric | Screen | Flat | Top | Left
+tile.block_tng_corridor_fabric_screen_flat_top_right.name=TNG Corridor | Fabric | Screen | Flat | Top | Right
+tile.block_tng_corridor_fabric_screen_flat_top_flush.name=TNG Corridor | Fabric | Screen | Flat | Top | Flush
+//
+/**/
+/* TNG Corridor with Pattern Wall Blocks */
+tile.block_tng_corridor_pattern_btm.name=TNG Corridor | Pattern | Bottom
+tile.block_tng_corridor_pattern_middle.name=TNG Corridor | Pattern | Middle
+tile.block_tng_corridor_pattern_top.name=TNG Corridor | Pattern | Top
+//
+tile.block_tng_corridor_pattern_btm_left.name=TNG Corridor | Pattern | Bottom | Left
+tile.block_tng_corridor_pattern_btm_right.name=TNG Corridor | Pattern | Bottom | Right
+tile.block_tng_corridor_pattern_btm_window.name=TNG Corridor | Pattern | Bottom | Window
+//
+tile.block_tng_corridor_pattern_btm_left_window.name=TNG Corridor | Pattern | Bottom | Left | Window
+tile.block_tng_corridor_pattern_btm_right_window.name=TNG Corridor | Pattern | Bottom | Right | Window
+//
+tile.block_tng_corridor_pattern_middle_left.name=TNG Corridor | Pattern | Middle | Left
+tile.block_tng_corridor_pattern_middle_right.name=TNG Corridor | Pattern | Middle | Right
+tile.block_tng_corridor_pattern_middle_window.name=TNG Corridor | Pattern | Middle | Window
+//
+tile.block_tng_corridor_pattern_middle_left_window.name=TNG Corridor | Pattern | Middle | Left | Window
+tile.block_tng_corridor_pattern_middle_right_window.name=TNG Corridor | Pattern | Middle | Right | Window
+//
+tile.block_tng_corridor_pattern_top_left.name=TNG Corridor | Pattern | Top | Left
+tile.block_tng_corridor_pattern_top_right.name=TNG Corridor | Pattern | Top | Right
+tile.block_tng_corridor_pattern_top_window.name=TNG Corridor | Pattern | Top | Window
+//
+tile.block_tng_corridor_pattern_top_left_window.name=TNG Corridor | Pattern | Top | Left | Window
+tile.block_tng_corridor_pattern_top_right_window.name=TNG Corridor | Pattern | Top | Right | Window
+/-/
+tile.block_tng_corridor_pattern_btm_window_diag.name=TNG Corridor | Pattern | Bottom | Window | Diagonal
+tile.block_tng_corridor_pattern_middle_window_diag.name=TNG Corridor | Pattern | Middle | Window | Diagonal
+tile.block_tng_corridor_pattern_top_window_diag.name=TNG Corridor | Pattern | Top | Window | Diagonal
+//
+/**/
+/* TNG Corridor with Vertical Padding Blocks */
+tile.block_tng_corridor_vert_padded_btm_left.name=TNG Corridor | Vertical Padded | Bottom | Left
+tile.block_tng_corridor_vert_padded_btm_right.name=TNG Corridor | Vertical Padded | Bottom | Right
+tile.block_tng_corridor_vert_padded_middle_left.name=TNG Corridor | Vertical Padded | Middle | Left
+tile.block_tng_corridor_vert_padded_middle_right.name=TNG Corridor | Vertical Padded | Middle | Right
+tile.block_tng_corridor_vert_padded_top_left.name=TNG Corridor | Vertical Padded | Top | Left
+tile.block_tng_corridor_vert_padded_top_right.name=TNG Corridor | Vertical Padded | Top | Right
+//
+tile.block_tng_corridor_vert_padded_brace_btm_left.name=TNG Corridor | Vertical Padded | Brace | Bottom | Left
+tile.block_tng_corridor_vert_padded_brace_btm_right.name=TNG Corridor | Vertical Padded | Brace | Bottom | Right
+tile.block_tng_corridor_vert_padded_brace_middle_left.name=TNG Corridor | Vertical Padded | Brace | Middle | Left
+tile.block_tng_corridor_vert_padded_brace_middle_right.name=TNG Corridor | Vertical Padded | Brace | Middle | Right
+tile.block_tng_corridor_vert_padded_brace_top_left.name=TNG Corridor | Vertical Padded | Brace | Top | Left
+tile.block_tng_corridor_vert_padded_brace_top_right.name=TNG Corridor | Vertical Padded | Brace | Top | Right
+//
+tile.block_tng_corridor_vert_padded_btm_flush.name=TNG Corridor | Vertical Padded | Bottom | Flush
+tile.block_tng_corridor_vert_padded_middle_flush.name=TNG Corridor | Vertical Padded | Middle | Flush
+tile.block_tng_corridor_vert_padded_top_flush.name=TNG Corridor | Vertical Padded | Top | Flush
+/-/
+tile.block_tng_corridor_vert_padded_btm_diag.name=TNG Corridor | Vertical Padded | Bottom | Diagonal
+tile.block_tng_corridor_vert_padded_middle_diag.name=TNG Corridor | Vertical Padded | Middle | Diagonal
+tile.block_tng_corridor_vert_padded_top_diag.name=TNG Corridor | Vertical Padded | Top | Diagonal
+//
+/**/
+/* TNG Tech Room Blocks */
+tile.block_tng_room_tech_btm_flush_alt.name=TNG Room | Tech | Bottom | Flush | Alt
+tile.block_tng_room_tech_btm_flush.name=TNG Room | Tech | Bottom | Flush
+tile.block_tng_room_tech_btm_split.name=TNG Room | Tech | Bottom | Split
+//
+tile.block_tng_room_tech_middle_flush.name=TNG Room | Tech | Middle | Flush
+tile.block_tng_room_tech_middle_split.name=TNG Room | Tech | Middle | Split
+//
+tile.block_tng_room_tech_top_flush_alt.name=TNG Room | Tech | Top | Flush | Alt
+tile.block_tng_room_tech_top_flush.name=TNG Room | Tech | Top | Flush
+tile.block_tng_room_tech_top_split_alt.name=TNG Room | Tech | Top | Split | Alt
+tile.block_tng_room_tech_top_split.name=TNG Room | Tech | Top | Split
+//
+/**/
+/* TNG Lounge Room Blocks */
+tile.block_tng_room_lounge_btm.name=TNG Room | Lounge | Bottom
+tile.block_tng_room_lounge_middle.name=TNG Room | Lounge | Middle
+tile.block_tng_room_lounge_top.name=TNG Room | Lounge | Top
+//
+/**/
+/*  
+ *  TNG Doorway Tan Blocks
+ */
+tile.block_tng_doorway_tan_btm_left.name=TNG Doorway | Bottom Left
+tile.block_tng_doorway_tan_btm_left_jt.name=TNG Doorway | Bottom Left | Access
+tile.block_tng_doorway_tan_middle_left.name=TNG Doorway | Middle Left
+tile.block_tng_doorway_tan_middle_left_jt.name=TNG Doorway | Middle Left | Access
+tile.block_tng_doorway_tan_middle_left_lift.name=TNG Doorway | Middle Left | TurboLift
+tile.block_tng_doorway_tan_top_left.name=TNG Doorway | Top Left
+tile.block_tng_doorway_tan_top_middle.name=TNG Doorway | Top Middle
+tile.block_tng_doorway_tan_btm_right.name=TNG Doorway | Bottom Right
+tile.block_tng_doorway_tan_middle_right.name=TNG Doorway | Middle Right
+tile.block_tng_doorway_tan_top_right.name=TNG Doorway | Top Right
+//
+/**/
+/* TNG Corridor Tan Light Diagonal Blocks */
+/-/
+tile.block_tng_corridor_tan_light_btm_diag.name=TNG Corridor | Tan Light | Bottom | Diagonal
+tile.block_tng_corridor_tan_light_middle_diag.name=TNG Corridor | Tan Light | Middle | Diagonal
+tile.block_tng_corridor_tan_light_top_diag.name=TNG Corridor | Tan Light | Top | Diagonal
+//
+
+
+
+//  I T E M S
+//
+// TNG ITEMS
+//
+item.door_tng_orange.name=TNG Orange Door
+item.door_tng_grey.name=TNG Grey Door
+
+
+
+
+
+
+
+
+
+
+

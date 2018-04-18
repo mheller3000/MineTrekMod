@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "mtm:block_tng_doorway_tan_btm_left_jt" },
+        "facing=south": { "model": "mtm:block_tng_doorway_tan_btm_left_jt", "y": 180 },
+        "facing=west":  { "model": "mtm:block_tng_doorway_tan_btm_left_jt", "y": 270 },
+        "facing=east":  { "model": "mtm:block_tng_doorway_tan_btm_left_jt", "y": 90 }
+    }
+}

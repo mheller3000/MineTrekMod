@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "mtm:blocks/tng/rooms/tech/tng_room_tech_top_split_alt",
+        "down": "mtm:blocks/tng/tng_wall_silver",
+        "up": "mtm:blocks/tng/tng_wall_tan",
+        "north": "mtm:blocks/tng/rooms/tech/tng_room_tech_top_split_alt",
+        "east": "mtm:blocks/tng/rooms/tech/tng_room_tech_top_flush",
+        "south": "mtm:blocks/tng/rooms/pale/tng_room_pale_top_split",
+        "west": "mtm:blocks/tng/rooms/tech/tng_room_tech_top_flush"
+    }
+}

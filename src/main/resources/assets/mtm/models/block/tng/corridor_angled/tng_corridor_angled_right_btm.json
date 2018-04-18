@@ -1,0 +1,10 @@
+{
+    "parent": "mtm:block/tng/corridor_angled/tng_corridor_angled_right_brace",
+    "textures": {
+        "tex_top": "mtm:blocks/tng/tng_wall_tan",
+        "tex_sides": "mtm:blocks/tng/tng_wall_tan",
+        "tex_back": "mtm:blocks/tng/rooms/pale/tng_room_pale_btm_left",
+        "tex_btm": "mtm:blocks/tng/tng_wall_tan",
+        "tex_brace": "mtm:blocks/tng/corridors/tng_corridor_brace"
+    }
+}

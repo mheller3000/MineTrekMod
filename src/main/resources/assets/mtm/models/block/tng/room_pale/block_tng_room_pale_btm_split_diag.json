@@ -1,0 +1,7 @@
+{
+    "parent": "mtm:block/model_wall_diag_left",
+    "textures": {
+        "particle": "mtm:blocks/tng/rooms/pale/tng_room_pale_btm_split_diag",
+        "tex_main": "mtm:blocks/tng/rooms/pale/tng_room_pale_btm_split_diag"
+    }
+}

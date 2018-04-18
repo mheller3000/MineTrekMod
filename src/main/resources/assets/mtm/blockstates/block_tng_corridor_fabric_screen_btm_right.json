@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "mtm:tng/corridor_fabric_screen/block_tng_corridor_fabric_screen_btm_right", "y": 90 },
+        "facing=south": { "model": "mtm:tng/corridor_fabric_screen/block_tng_corridor_fabric_screen_btm_right", "y": 270 },
+        "facing=west": { "model": "mtm:tng/corridor_fabric_screen/block_tng_corridor_fabric_screen_btm_right", "y": 0 },
+        "facing=east": { "model": "mtm:tng/corridor_fabric_screen/block_tng_corridor_fabric_screen_btm_right", "y": 180 }
+    }
+}

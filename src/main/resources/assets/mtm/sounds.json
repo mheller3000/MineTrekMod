@@ -1,0 +1,14 @@
+{
+    "sound_tng_door": {
+        "category": "block",
+        "subtitle": "mtm.subtitle.sound_tng_door",
+        "sounds": ["mtm:sound_tng_door"]
+
+    },
+    "sound_tng_door_place": {
+        "category": "block",
+        "subtitle": "mtm.subtitle.sound_tng_door_placed",
+        "sounds": ["mtm:sound_tng_door_place"]
+
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "mtm:tng/room_tech/block_tng_room_tech_middle_split" },
+        "facing=south": { "model": "mtm:tng/room_tech/block_tng_room_tech_middle_split", "y": 180 },
+        "facing=west":  { "model": "mtm:tng/room_tech/block_tng_room_tech_middle_split", "y": 270 },
+        "facing=east":  { "model": "mtm:tng/room_tech/block_tng_room_tech_middle_split", "y": 90 }
+    }
+}

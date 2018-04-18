@@ -1,0 +1,31 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "custom": { "flip-v": true },
+        "model": "mtm:tng/warp/tng_core_a.obj"
+      },
+    "variants": {
+        "normal": [{}],
+            "inventory": [
+                { "transform": "forge:default-block" }
+             ],
+        "facing": {
+            "north": {
+                "model": "mtm:tng/warp/tng_core_a.obj",
+                "y": 270                                 
+            },
+            "south": {
+                "model": "mtm:tng/warp/tng_core_a.obj",                
+                "y": 90
+            },
+            "west": {
+                "model": "mtm:tng/warp/tng_core_a.obj",
+                "y": 180
+            },
+            "east": {
+                "model": "mtm:tng/warp/tng_core_a.obj",
+                "y": 0
+            }
+        }
+    }
+}

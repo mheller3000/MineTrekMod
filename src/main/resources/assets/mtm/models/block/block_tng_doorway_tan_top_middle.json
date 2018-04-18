@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "mtm:blocks/tng/doorways/tng_doorway_tan_top_middle",
+        "down": "mtm:blocks/tng/tng_wall_tan",
+        "up": "mtm:blocks/tng/tng_wall_tan",
+        "north": "mtm:blocks/tng/doorways/tng_doorway_tan_top_middle",
+        "east": "mtm:blocks/tng/tng_wall_tan",
+        "south": "mtm:blocks/tng/doorways/tng_doorway_tan_top_middle",
+        "west": "mtm:blocks/tng/tng_wall_tan"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "mtm:tng/corridor_pattern/block_tng_corridor_pattern_top" },
+        "facing=south": { "model": "mtm:tng/corridor_pattern/block_tng_corridor_pattern_top", "y": 180 },
+        "facing=west":  { "model": "mtm:tng/corridor_pattern/block_tng_corridor_pattern_top", "y": 270 },
+        "facing=east":  { "model": "mtm:tng/corridor_pattern/block_tng_corridor_pattern_top", "y": 90 }
+    }
+}

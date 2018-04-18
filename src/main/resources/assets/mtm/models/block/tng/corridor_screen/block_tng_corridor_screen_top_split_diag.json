@@ -1,0 +1,7 @@
+{
+    "parent": "mtm:block/model_wall_diag_left",
+    "textures": {
+        "particle": "mtm:blocks/tng/corridors/screen/tng_corridor_screen_top_split_diag",
+        "tex_main": "mtm:blocks/tng/corridors/screen/tng_corridor_screen_top_split_diag"
+    }
+}
