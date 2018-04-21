@@ -5,7 +5,7 @@
 itemGroup.tab_ent=Enterprise
 itemGroup.tab_dsc=Discovery
 itemGroup.tab_tos=TOS
-itemGroup.tab_movie=TOS/TMP Movies
+itemGroup.tab_movie=TOS Movies
 itemGroup.tab_tng=TNG
 itemGroup.tab_ds9=DS9
 itemGroup.tab_voy=Voyager
@@ -14,7 +14,7 @@ itemGroup.tab_25th=25th Century
 itemGroup.tab_26th=26th Century
 itemGroup.tab_29thto31st=29th-31st Century
 itemGroup.tab_jj=JJ Trek
-itemGroup.tab_misc=Misc. Trek
+itemGroup.tab_misc=Misc Trek
 //
 
 
@@ -23,18 +23,21 @@ tile.block_trek_carpet_teal.name=Trek Carpet | Teal
 tile.block_trek_carpet_tan.name=Trek Carpet | Tan
 tile.block_trek_carpet_deep_red.name=Trek Carpet | Deep Red
 tile.block_trek_carpet_dark_grey.name=Trek Carpet | Dark Grey
+tile.block_trek_carpet_grey.name=Trek Carpet | Grey
 
 /* Carpet Corner */
 tile.block_trek_carpet_corner_teal.name=Trek Carpet | Corner | Teal
 tile.block_trek_carpet_corner_tan.name=Trek Carpet | Corner | Tan
 tile.block_trek_carpet_corner_deep_red.name=Trek Carpet | Corner | Deep Red
 tile.block_trek_carpet_corner_dark_grey.name=Trek Carpet | Corner | Dark Grey
+tile.block_trek_carpet_corner_grey.name=Trek Carpet | Corner | Grey
 
 /* Fabric */
 tile.block_fabric_teal.name=Trek Fabric | Teal
 tile.block_fabric_tan.name=Trek Fabric | Tan
 tile.block_fabric_deep_red.name=Trek Fabric | Deep Red
 tile.block_fabric_dark_grey.name=Trek Fabric | Dark Grey
+tile.block_fabric_grey.name=Trek Fabric | Grey
 //
 
 
@@ -359,6 +362,34 @@ tile.block_tng_corridor_tan_light_btm_diag.name=TNG Corridor | Tan Light | Botto
 tile.block_tng_corridor_tan_light_middle_diag.name=TNG Corridor | Tan Light | Middle | Diagonal
 tile.block_tng_corridor_tan_light_top_diag.name=TNG Corridor | Tan Light | Top | Diagonal
 //
+/* TNG Bridge Console Blocks */
+/-/
+tile.block_tng_bridge_console_btm.name=TNG Bridge Console | Bottom
+tile.block_tng_bridge_console_middle.name=TNG Bridge Console | Middle
+tile.block_tng_bridge_console_top.name=TNG Bridge Console | Top
+tile.block_tng_bridge_console_top_alert.name=TNG Bridge Console | Top | Red Alert
+//
+tile.block_tng_bridge_console_btm_left.name=TNG Bridge Console | Bottom | Left
+tile.block_tng_bridge_console_middle_left.name=TNG Bridge Console | Middle | Left
+tile.block_tng_bridge_console_top_left.name=TNG Bridge Console | Top | Left
+tile.block_tng_bridge_console_top_left_alert.name=TNG Bridge Console | Top | Left | Red Alert
+//
+tile.block_tng_bridge_console_btm_left_end.name=TNG Bridge Console | Bottom | Left End
+tile.block_tng_bridge_console_middle_left_end.name=TNG Bridge Console | Middle | Left End
+tile.block_tng_bridge_console_top_left_end.name=TNG Bridge Console | Top | Left End
+tile.block_tng_bridge_console_top_left_end_alert.name=TNG Bridge Console | Top | Left End | Red Alert
+//
+tile.block_tng_bridge_console_btm_right.name=TNG Bridge Console | Bottom | Right
+tile.block_tng_bridge_console_middle_right.name=TNG Bridge Console | Middle | Right
+tile.block_tng_bridge_console_top_right.name=TNG Bridge Console | Top | Right
+tile.block_tng_bridge_console_top_right_alert.name=TNG Bridge Console | Top | Right | Red Alert
+//
+tile.block_tng_bridge_console_btm_right_end.name=TNG Bridge Console | Bottom | Right End
+tile.block_tng_bridge_console_middle_right_end.name=TNG Bridge Console | Middle | Right End
+tile.block_tng_bridge_console_top_right_end.name=TNG Bridge Console | Top | Right End
+tile.block_tng_bridge_console_top_right_end_alert.name=TNG Bridge Console | Top | Right End | Red Alert
+//
+
 
 
 
@@ -374,8 +405,136 @@ item.door_tng_grey.name=TNG Grey Door
 
 
 
-
-
-
-
+//   M O V I E   E R A
+//
+// Angled Corridors
+//
+tile.block_tmp_corridor_angled_btm_flush.name=TMP Corridor | Angled | Bottom
+tile.block_tmp_corridor_angled_btm_left.name=TMP Corridor | Angled | Bottom | Left
+tile.block_tmp_corridor_angled_btm_right.name=TMP Corridor | Angled | Bottom | Right
+tile.block_tmp_corridor_angled_btm_split.name=TMP Corridor | Angled | Bottom | Split
+//
+tile.block_tmp_corridor_angled_middle_flush.name=TMP Corridor | Angled | Middle
+tile.block_tmp_corridor_angled_middle_left.name=TMP Corridor | Angled | Middle | Left
+tile.block_tmp_corridor_angled_middle_right.name=TMP Corridor | Angled | Middle | Right
+tile.block_tmp_corridor_angled_middle_split.name=TMP Corridor | Angled | Middle | Split
+//
+tile.block_tmp_corridor_angled_middle_flush_alert.name=TMP Corridor | Angled | Middle | Red Alert
+tile.block_tmp_corridor_angled_middle_left_alert.name=TMP Corridor | Angled | Middle | Left | Red Alert
+tile.block_tmp_corridor_angled_middle_right_alert.name=TMP Corridor | Angled | Middle | Right | Red Alert
+tile.block_tmp_corridor_angled_middle_split_alert.name=TMP Corridor | Angled | Middle | Split | Red Alert
+//
+tile.block_tmp_corridor_angled_top_flush.name=TMP Corridor | Angled | Top
+tile.block_tmp_corridor_angled_top_left.name=TMP Corridor | Angled | Top | Left
+tile.block_tmp_corridor_angled_top_right.name=TMP Corridor | Angled | Top | Right
+tile.block_tmp_corridor_angled_top_split.name=TMP Corridor | Angled | Top | Split
+//
+//
+// WHITE Angled Corridors
+//
+tile.block_tmp_corridor_angled_white_btm_flush.name=TMP Corridor | Angled | White | Bottom
+tile.block_tmp_corridor_angled_white_btm_left.name=TMP Corridor | Angled | White | Bottom | Left
+tile.block_tmp_corridor_angled_white_btm_right.name=TMP Corridor | Angled | White | Bottom | Right
+tile.block_tmp_corridor_angled_white_btm_split.name=TMP Corridor | Angled | White | Bottom | Split
+//
+tile.block_tmp_corridor_angled_white_middle_flush.name=TMP Corridor | Angled | White | Middle
+tile.block_tmp_corridor_angled_white_middle_left.name=TMP Corridor | Angled | White | Middle | Left
+tile.block_tmp_corridor_angled_white_middle_right.name=TMP Corridor | Angled | White | Middle | Right
+tile.block_tmp_corridor_angled_white_middle_split.name=TMP Corridor | Angled | White | Middle | Split
+//
+tile.block_tmp_corridor_angled_white_top_flush.name=TMP Corridor | Angled | White | Top
+tile.block_tmp_corridor_angled_white_top_left.name=TMP Corridor | Angled | White | Top | Left
+tile.block_tmp_corridor_angled_white_top_right.name=TMP Corridor | Angled | White | Top | Right
+tile.block_tmp_corridor_angled_white_top_split.name=TMP Corridor | Angled | White | Top | Split
+//
+//
+// RED Angled Corridors
+//
+tile.block_tmp_corridor_angled_red_btm_flush.name=TMP Corridor | Angled | Red | Bottom
+tile.block_tmp_corridor_angled_red_btm_left.name=TMP Corridor | Angled | Red | Bottom | Left
+tile.block_tmp_corridor_angled_red_btm_right.name=TMP Corridor | Angled | Red | Bottom | Right
+tile.block_tmp_corridor_angled_red_btm_split.name=TMP Corridor | Angled | Red | Bottom | Split
+//
+tile.block_tmp_corridor_angled_red_middle_flush.name=TMP Corridor | Angled | Red | Middle
+tile.block_tmp_corridor_angled_red_middle_left.name=TMP Corridor | Angled | Red | Middle | Left
+tile.block_tmp_corridor_angled_red_middle_right.name=TMP Corridor | Angled | Red | Middle | Right
+tile.block_tmp_corridor_angled_red_middle_split.name=TMP Corridor | Angled | Red | Middle | Split
+//
+tile.block_tmp_corridor_angled_red_top_flush.name=TMP Corridor | Angled | Red | Top
+tile.block_tmp_corridor_angled_red_top_left.name=TMP Corridor | Angled | Red | Top | Left
+tile.block_tmp_corridor_angled_red_top_right.name=TMP Corridor | Angled | Red | Top | Right
+tile.block_tmp_corridor_angled_red_top_split.name=TMP Corridor | Angled | Red | Top | Split
+//
+//
+// GREY Angled Corridors
+//
+tile.block_tmp_corridor_angled_grey_btm_flush.name=TMP Corridor | Angled | Grey | Bottom
+tile.block_tmp_corridor_angled_grey_btm_left.name=TMP Corridor | Angled | Grey | Bottom | Left
+tile.block_tmp_corridor_angled_grey_btm_right.name=TMP Corridor | Angled | Grey | Bottom | Right
+tile.block_tmp_corridor_angled_grey_btm_split.name=TMP Corridor | Angled | Grey | Bottom | Split
+//
+tile.block_tmp_corridor_angled_grey_middle_flush.name=TMP Corridor | Angled | Grey | Middle
+tile.block_tmp_corridor_angled_grey_middle_left.name=TMP Corridor | Angled | Grey | Middle | Left
+tile.block_tmp_corridor_angled_grey_middle_right.name=TMP Corridor | Angled | Grey | Middle | Right
+tile.block_tmp_corridor_angled_grey_middle_split.name=TMP Corridor | Angled | Grey | Middle | Split
+//
+tile.block_tmp_corridor_angled_grey_top_flush.name=TMP Corridor | Angled | Grey | Top
+tile.block_tmp_corridor_angled_grey_top_left.name=TMP Corridor | Angled | Grey | Top | Left
+tile.block_tmp_corridor_angled_grey_top_right.name=TMP Corridor | Angled | Grey | Top | Right
+tile.block_tmp_corridor_angled_grey_top_split.name=TMP Corridor | Angled | Grey | Top | Split
+//
+//
+// YELLOW Angled Corridors
+//
+tile.block_tmp_corridor_angled_yellow_btm_flush.name=TMP Corridor | Angled | Yellow | Bottom
+tile.block_tmp_corridor_angled_yellow_btm_left.name=TMP Corridor | Angled | Yellow | Bottom | Left
+tile.block_tmp_corridor_angled_yellow_btm_right.name=TMP Corridor | Angled | Yellow | Bottom | Right
+tile.block_tmp_corridor_angled_yellow_btm_split.name=TMP Corridor | Angled | Yellow | Bottom | Split
+//
+tile.block_tmp_corridor_angled_yellow_middle_flush.name=TMP Corridor | Angled | Yellow | Middle
+tile.block_tmp_corridor_angled_yellow_middle_left.name=TMP Corridor | Angled | Yellow | Middle | Left
+tile.block_tmp_corridor_angled_yellow_middle_right.name=TMP Corridor | Angled | Yellow | Middle | Right
+tile.block_tmp_corridor_angled_yellow_middle_split.name=TMP Corridor | Angled | Yellow | Middle | Split
+//
+tile.block_tmp_corridor_angled_yellow_top_flush.name=TMP Corridor | Angled | Yellow | Top
+tile.block_tmp_corridor_angled_yellow_top_left.name=TMP Corridor | Angled | Yellow | Top | Left
+tile.block_tmp_corridor_angled_yellow_top_right.name=TMP Corridor | Angled | Yellow | Top | Right
+tile.block_tmp_corridor_angled_yellow_top_split.name=TMP Corridor | Angled | Yellow | Top | Split
+//
+//
+// BLUE Angled Corridors
+//
+tile.block_tmp_corridor_angled_blue_btm_flush.name=TMP Corridor | Angled | Blue | Bottom
+tile.block_tmp_corridor_angled_blue_btm_left.name=TMP Corridor | Angled | Blue | Bottom | Left
+tile.block_tmp_corridor_angled_blue_btm_right.name=TMP Corridor | Angled | Blue | Bottom | Right
+tile.block_tmp_corridor_angled_blue_btm_split.name=TMP Corridor | Angled | Blue | Bottom | Split
+//
+tile.block_tmp_corridor_angled_blue_middle_flush.name=TMP Corridor | Angled | Blue | Middle
+tile.block_tmp_corridor_angled_blue_middle_left.name=TMP Corridor | Angled | Blue | Middle | Left
+tile.block_tmp_corridor_angled_blue_middle_right.name=TMP Corridor | Angled | Blue | Middle | Right
+tile.block_tmp_corridor_angled_blue_middle_split.name=TMP Corridor | Angled | Blue | Middle | Split
+//
+tile.block_tmp_corridor_angled_blue_top_flush.name=TMP Corridor | Angled | Blue | Top
+tile.block_tmp_corridor_angled_blue_top_left.name=TMP Corridor | Angled | Blue | Top | Left
+tile.block_tmp_corridor_angled_blue_top_right.name=TMP Corridor | Angled | Blue | Top | Right
+tile.block_tmp_corridor_angled_blue_top_split.name=TMP Corridor | Angled | Blue | Top | Split
+//
+//
+// BROWN Angled Corridors
+//
+tile.block_tmp_corridor_angled_brown_btm_flush.name=TMP Corridor | Angled | Brown | Bottom
+tile.block_tmp_corridor_angled_brown_btm_left.name=TMP Corridor | Angled | Brown | Bottom | Left
+tile.block_tmp_corridor_angled_brown_btm_right.name=TMP Corridor | Angled | Brown | Bottom | Right
+tile.block_tmp_corridor_angled_brown_btm_split.name=TMP Corridor | Angled | Brown | Bottom | Split
+//
+tile.block_tmp_corridor_angled_brown_middle_flush.name=TMP Corridor | Angled | Brown | Middle
+tile.block_tmp_corridor_angled_brown_middle_left.name=TMP Corridor | Angled | Brown | Middle | Left
+tile.block_tmp_corridor_angled_brown_middle_right.name=TMP Corridor | Angled | Brown | Middle | Right
+tile.block_tmp_corridor_angled_brown_middle_split.name=TMP Corridor | Angled | Brown | Middle | Split
+//
+tile.block_tmp_corridor_angled_brown_top_flush.name=TMP Corridor | Angled | Brown | Top
+tile.block_tmp_corridor_angled_brown_top_left.name=TMP Corridor | Angled | Brown | Top | Left
+tile.block_tmp_corridor_angled_brown_top_right.name=TMP Corridor | Angled | Brown | Top | Right
+tile.block_tmp_corridor_angled_brown_top_split.name=TMP Corridor | Angled | Brown | Top | Split
+//
 

@@ -1,0 +1,179 @@
+# Blender MTL File: 'trek_bridge_consoles.blend'
+
+# Material Count: 13
+
+
+
+newmtl tex_trek_bridge_console_btm
+
+
+Ka 1.000000 1.000000 1.000000
+
+Kd 1.000000 1.000000 1.000000
+
+map_Kd mtm:blocks/tng/bridge_consoles/tng_bridge_consoles_btm
+
+
+
+
+
+newmtl tex_trek_bridge_console_btm_misc
+
+Ka 1.000000 1.000000 1.000000
+
+Kd 1.000000 1.000000 1.000000
+
+
+map_Kd mtm:blocks/tng/tng_corridor_brace
+
+
+
+
+
+
+newmtl tex_trek_bridge_console_top
+
+
+Ka 1.000000 1.000000 1.000000
+
+Kd 1.000000 1.000000 1.000000
+
+map_Kd mtm:blocks/tng/bridge_consoles/tng_bridge_consoles_top
+
+
+
+newmtl tex_trek_bridge_console_lcars_a_1
+
+
+Ka 1.000000 1.000000 1.000000
+
+Kd 1.000000 1.000000 1.000000
+
+
+map_Kd mtm:blocks/tng/bridge_consoles/tng_bridge_consoles_lcars_a_1
+
+
+
+
+
+newmtl tex_trek_bridge_console_lcars_a_2
+
+
+Ka 1.000000 1.000000 1.000000
+
+Kd 1.000000 1.000000 1.000000
+
+
+map_Kd mtm:blocks/tng/bridge_consoles/tng_bridge_consoles_lcars_a_2
+
+
+
+
+
+newmtl tex_trek_bridge_console_lcars_b_1
+
+
+Ka 1.000000 1.000000 1.000000
+
+Kd 1.000000 1.000000 1.000000
+
+
+map_Kd mtm:blocks/tng/bridge_consoles/tng_bridge_consoles_lcars_b_1
+
+
+
+
+
+newmtl tex_trek_bridge_console_lcars_b_2
+
+
+Ka 1.000000 1.000000 1.000000
+
+Kd 1.000000 1.000000 1.000000
+
+
+map_Kd mtm:blocks/tng/bridge_consoles/tng_bridge_consoles_lcars_b_2
+
+
+
+
+
+newmtl tex_trek_bridge_console_lcars_c_1
+
+
+Ka 1.000000 1.000000 1.000000
+
+Kd 1.000000 1.000000 1.000000
+
+
+map_Kd mtm:blocks/tng/bridge_consoles/tng_bridge_consoles_lcars_c_1
+
+
+
+
+
+newmtl tex_trek_bridge_console_lcars_c_2
+
+
+Ka 1.000000 1.000000 1.000000
+
+Kd 1.000000 1.000000 1.000000
+
+
+map_Kd mtm:blocks/tng/bridge_consoles/tng_bridge_consoles_lcars_c_2
+
+
+
+
+
+newmtl tex_trek_bridge_console_lcars_d_1
+
+
+Ka 1.000000 1.000000 1.000000
+
+Kd 1.000000 1.000000 1.000000
+
+
+map_Kd mtm:blocks/tng/bridge_consoles/tng_bridge_consoles_lcars_d_1
+
+
+
+
+
+newmtl tex_trek_bridge_console_lcars_d_2
+
+
+Ka 1.000000 1.000000 1.000000
+
+Kd 1.000000 1.000000 1.000000
+
+
+map_Kd mtm:blocks/tng/bridge_consoles/tng_bridge_consoles_lcars_d_2
+
+
+
+
+newmtl tex_trek_bridge_console_lcars_e_1
+
+
+Ka 1.000000 1.000000 1.000000
+
+Kd 1.000000 1.000000 1.000000
+
+
+map_Kd mtm:blocks/tng/bridge_consoles/tng_bridge_consoles_lcars_e_1
+
+
+
+
+
+newmtl tex_trek_bridge_console_lcars_e_2
+
+
+Ka 1.000000 1.000000 1.000000
+
+Kd 1.000000 1.000000 1.000000
+
+
+map_Kd mtm:blocks/tng/bridge_consoles/tng_bridge_consoles_lcars_e_2
+

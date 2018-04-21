@@ -1,0 +1,85 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "custom": { "flip-v": true },
+        "model": "mtm:trek_consoles/trek_bridge_console_btm_flush.obj",
+        "textures": {
+            "#tex_trek_bridge_console_btm": "mtm:blocks/tng/bridge_consoles/tng_bridge_consoles_btm",
+            "#tex_trek_bridge_console_btm_misc": "mtm:blocks/tng/corridors/tng_corridor_brace",
+            "tex_back": "mtm:blocks/tng/tng_wall_tan"
+        }
+    },
+    "variants": {
+        "normal": [{}],
+        "inventory": 
+        [{ 
+            "transform": 
+            {
+                "firstperson_righthand" :
+                 {
+                    "rotation" : [{"x": 0}, {"y": 225}, {"z": -5}],
+                    "translation" : [-0.1, 0.2, 0.0],
+                    "scale" :   [0.5, 0.5, 0.5]
+                 },
+                 "firstperson_lefthand" :
+                 {
+                    "rotation" : [{"x": 0}, {"y": 65}, {"z": -5}],
+                    "translation" : [-0.1, 0.2, 0.0],
+                    "scale" :   [0.5, 0.5, 0.5]
+                 },
+                "gui": 
+                {
+                    "rotation": [{"x":20}, {"y": 315}, {"z": 0}],
+                    "translation": [ 0, 0, 0 ],
+                    "scale":[ 0.65, 0.65, 0.65 ]
+                }
+            } 
+        }],
+        "facing": {
+            "north": {
+                "y": 180,
+                "model": "mtm:trek_consoles/trek_bridge_console_btm_flush.obj",
+                "submodel": {
+                    "centre":{
+                        "model": "mtm:tng/corridor_angled_alt/tng_corridor_angled_alt_back",
+                        "y": 270 ,
+                        "flip-v": true 
+                        }
+                }                                               
+            },
+            "south": {
+                "y": 0,
+                "model": "mtm:trek_consoles/trek_bridge_console_btm_flush.obj",                
+                "submodel": {
+                    "centre":{
+                        "model": "mtm:tng/corridor_angled_alt/tng_corridor_angled_alt_back",
+                        "y": 270 ,
+                        "flip-v": true 
+                        }
+                }
+            },
+            "west": {
+                "y": 90,
+                "model": "mtm:trek_consoles/trek_bridge_console_btm_flush.obj",                
+                "submodel": {
+                    "centre":{
+                        "model": "mtm:tng/corridor_angled_alt/tng_corridor_angled_alt_back",
+                        "y": 270 ,
+                        "flip-v": true 
+                        }
+                }               
+            },
+            "east": {
+                "y": 270,
+                "model": "mtm:trek_consoles/trek_bridge_console_btm_flush.obj",                
+                "submodel": {
+                    "centre":{
+                        "model": "mtm:tng/corridor_angled_alt/tng_corridor_angled_alt_back",
+                        "y": 270 ,
+                        "flip-v": true 
+                        }
+                }
+            }
+        }
+    }
+}
