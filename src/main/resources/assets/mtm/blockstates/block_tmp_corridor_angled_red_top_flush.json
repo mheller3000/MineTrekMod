@@ -5,7 +5,7 @@
         "model": "mtm:tng/corridor_angled_alt/model_tng_corridor_angled_alt_top_flush.obj",
         "textures": {
             "#tex_top": "mtm:blocks/tmp/corridors/angled_red/tmp_corridor_angled_red_top_flush",
-            "tex_back": "mtm:blocks/tng/room_pale/tng_room_pale_top_flush"
+            "tex_back": "mtm:blocks/tng/rooms/pale/tng_room_pale_top_flush"
         }
     },
     "variants": {

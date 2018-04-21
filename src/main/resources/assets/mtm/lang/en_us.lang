@@ -367,7 +367,29 @@ tile.block_tng_corridor_tan_light_top_diag.name=TNG Corridor | Tan Light | Top |
 tile.block_tng_bridge_console_btm.name=TNG Bridge Console | Bottom
 tile.block_tng_bridge_console_middle.name=TNG Bridge Console | Middle
 tile.block_tng_bridge_console_top.name=TNG Bridge Console | Top
+tile.block_tng_bridge_console_top_alert.name=TNG Bridge Console | Top | Red Alert
 //
+tile.block_tng_bridge_console_btm_left.name=TNG Bridge Console | Bottom | Left
+tile.block_tng_bridge_console_middle_left.name=TNG Bridge Console | Middle | Left
+tile.block_tng_bridge_console_top_left.name=TNG Bridge Console | Top | Left
+tile.block_tng_bridge_console_top_left_alert.name=TNG Bridge Console | Top | Left | Red Alert
+//
+tile.block_tng_bridge_console_btm_left_end.name=TNG Bridge Console | Bottom | Left End
+tile.block_tng_bridge_console_middle_left_end.name=TNG Bridge Console | Middle | Left End
+tile.block_tng_bridge_console_top_left_end.name=TNG Bridge Console | Top | Left End
+tile.block_tng_bridge_console_top_left_end_alert.name=TNG Bridge Console | Top | Left End | Red Alert
+//
+tile.block_tng_bridge_console_btm_right.name=TNG Bridge Console | Bottom | Right
+tile.block_tng_bridge_console_middle_right.name=TNG Bridge Console | Middle | Right
+tile.block_tng_bridge_console_top_right.name=TNG Bridge Console | Top | Right
+tile.block_tng_bridge_console_top_right_alert.name=TNG Bridge Console | Top | Right | Red Alert
+//
+tile.block_tng_bridge_console_btm_right_end.name=TNG Bridge Console | Bottom | Right End
+tile.block_tng_bridge_console_middle_right_end.name=TNG Bridge Console | Middle | Right End
+tile.block_tng_bridge_console_top_right_end.name=TNG Bridge Console | Top | Right End
+tile.block_tng_bridge_console_top_right_end_alert.name=TNG Bridge Console | Top | Right End | Red Alert
+//
+
 
 
 

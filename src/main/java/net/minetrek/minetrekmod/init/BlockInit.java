@@ -661,10 +661,44 @@ public class BlockInit {
 //			"block_tng_bridge_console_middle", Material.IRON, Main.TAB_TNG, 1.0f, 0, SoundType.METAL);
 //	public static final Block BLOCK_TNG_BRIDGE_CONSOLE_TOP = new BlockObj(
 //			"block_tng_bridge_console_top", Material.IRON, Main.TAB_TNG, 1.0f, 0, SoundType.METAL);
-	//
-	
-	//
-	
+//	public static final Block BLOCK_TNG_BRIDGE_CONSOLE_TOP_ALERT = new BlockObj(
+//			"block_tng_bridge_console_top_alert", Material.IRON, Main.TAB_TNG, 1.0f, 0, SoundType.METAL);
+//	//
+//	public static final Block BLOCK_TNG_BRIDGE_CONSOLE_BTM_LEFT = new BlockObj(
+//			"block_tng_bridge_console_btm_left", Material.IRON, Main.TAB_TNG, 1.0f, 0, SoundType.METAL);
+//	public static final Block BLOCK_TNG_BRIDGE_CONSOLE_MIDDLE_LEFT = new BlockObj(
+//			"block_tng_bridge_console_middle_left", Material.IRON, Main.TAB_TNG, 1.0f, 0, SoundType.METAL);
+//	public static final Block BLOCK_TNG_BRIDGE_CONSOLE_TOP_LEFT = new BlockObj(
+//			"block_tng_bridge_console_top_left", Material.IRON, Main.TAB_TNG, 1.0f, 0, SoundType.METAL);
+//	public static final Block BLOCK_TNG_BRIDGE_CONSOLE_TOP_LEFT_ALERT = new BlockObj(
+//			"block_tng_bridge_console_top_left_alert", Material.IRON, Main.TAB_TNG, 1.0f, 0, SoundType.METAL);
+//	//
+//	public static final Block BLOCK_TNG_BRIDGE_CONSOLE_BTM_LEFT_END = new BlockObj(
+//			"block_tng_bridge_console_btm_left_end", Material.IRON, Main.TAB_TNG, 1.0f, 0, SoundType.METAL);
+//	public static final Block BLOCK_TNG_BRIDGE_CONSOLE_MIDDLE_LEFT_END = new BlockObj(
+//			"block_tng_bridge_console_middle_left_end", Material.IRON, Main.TAB_TNG, 1.0f, 0, SoundType.METAL);
+//	public static final Block BLOCK_TNG_BRIDGE_CONSOLE_TOP_LEFT_END = new BlockObj(
+//			"block_tng_bridge_console_top_left_end", Material.IRON, Main.TAB_TNG, 1.0f, 0, SoundType.METAL);
+//	public static final Block BLOCK_TNG_BRIDGE_CONSOLE_TOP_LEFT_END_ALERT = new BlockObj(
+//			"block_tng_bridge_console_top_left_end_alert", Material.IRON, Main.TAB_TNG, 1.0f, 0, SoundType.METAL);
+//	//
+//	public static final Block BLOCK_TNG_BRIDGE_CONSOLE_BTM_RIGHT = new BlockObj(
+//			"block_tng_bridge_console_btm_right", Material.IRON, Main.TAB_TNG, 1.0f, 0, SoundType.METAL);
+//	public static final Block BLOCK_TNG_BRIDGE_CONSOLE_MIDDLE_RIGHT = new BlockObj(
+//			"block_tng_bridge_console_middle_right", Material.IRON, Main.TAB_TNG, 1.0f, 0, SoundType.METAL);
+//	public static final Block BLOCK_TNG_BRIDGE_CONSOLE_TOP_RIGHT = new BlockObj(
+//			"block_tng_bridge_console_top_right", Material.IRON, Main.TAB_TNG, 1.0f, 0, SoundType.METAL);
+//	public static final Block BLOCK_TNG_BRIDGE_CONSOLE_TOP_RIGHT_ALERT = new BlockObj(
+//			"block_tng_bridge_console_top_right_alert", Material.IRON, Main.TAB_TNG, 1.0f, 0, SoundType.METAL);
+//	//
+//	public static final Block BLOCK_TNG_BRIDGE_CONSOLE_BTM_RIGHT_END = new BlockObj(
+//			"block_tng_bridge_console_btm_right_end", Material.IRON, Main.TAB_TNG, 1.0f, 0, SoundType.METAL);
+//	public static final Block BLOCK_TNG_BRIDGE_CONSOLE_MIDDLE_RIGHT_END = new BlockObj(
+//			"block_tng_bridge_console_middle_right_end", Material.IRON, Main.TAB_TNG, 1.0f, 0, SoundType.METAL);
+//	public static final Block BLOCK_TNG_BRIDGE_CONSOLE_TOP_RIGHT_END = new BlockObj(
+//			"block_tng_bridge_console_top_right_end", Material.IRON, Main.TAB_TNG, 1.0f, 0, SoundType.METAL);
+//	public static final Block BLOCK_TNG_BRIDGE_CONSOLE_TOP_RIGHT_END_ALERT = new BlockObj(
+//			"block_tng_bridge_console_top_right_end_alert", Material.IRON, Main.TAB_TNG, 1.0f, 0, SoundType.METAL);
 //
 	
 	

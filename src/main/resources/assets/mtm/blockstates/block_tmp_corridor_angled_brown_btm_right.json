@@ -5,7 +5,7 @@
         "model": "mtm:tng/corridor_angled_alt/model_tng_corridor_angled_alt_btm_right.obj",
         "textures": {
             "#tex_btm": "mtm:blocks/tmp/corridors/angled_brown/tmp_corridor_angled_brown_btm_right",
-            "tex_back": "mtm:blocks/tng/room_pale/tng_room_pale_btm_left",
+            "tex_back": "mtm:blocks/tng/rooms/pale/tng_room_pale_btm_left",
             "#tex_brace": "mtm:blocks/tmp/corridors/tmp_brace_btm",
             "#tex_brace_end_btm": "mtm:blocks/tmp/corridors/tmp_brace_end_btm"
         }
