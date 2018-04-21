@@ -1,0 +1,68 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "custom": { "flip-v": true, "uvlock": true},
+        "model": "mtm:carpet/carpet_corner.obj",
+        "textures" : {
+            "#tex" : "mtm:blocks/carpet/carpet_grey",
+            "particle": "mtm:blocks/carpet/carpet_grey",
+            "wool": "mtm:blocks/carpet/carpet_grey"
+        }        
+      },
+    "variants": {
+        "normal": [{}],
+            "inventory": [
+                { "transform": "forge:default-block" }
+             ],
+        "facing": {
+            "north": {
+                "y": 180,
+                "model": "mtm:carpet/carpet_corner.obj",
+                "submodel": {
+                    "centre":{
+                        "model": "mtm:carpet/model_trek_carpet_corner",
+                        "y": 180 ,
+                        "flip-v": true, 
+                        "uvlock": true
+                        }
+                }                                               
+            },
+            "south": {
+                "y": 0,
+                "model": "mtm:carpet/carpet_corner.obj",             
+                "submodel": {
+                    "centre":{
+                        "model": "mtm:carpet/model_trek_carpet_corner",
+                        "y": 180 ,
+                        "flip-v": true, 
+                        "uvlock": true 
+                        }
+                }
+            },
+            "west": {
+                "y": 90,
+                "model": "mtm:carpet/carpet_corner.obj",            
+                "submodel": {
+                    "centre":{
+                        "model": "mtm:carpet/model_trek_carpet_corner",
+                        "y": 180 ,
+                        "flip-v": true, 
+                        "uvlock": true
+                        }
+                }               
+            },
+            "east": {
+                "y": 270,
+                "model": "mtm:carpet/carpet_corner.obj",          
+                "submodel": {
+                    "centre":{
+                        "model": "mtm:carpet/model_trek_carpet_corner",
+                        "y": 180 ,
+                        "flip-v": true, 
+                        "uvlock": true 
+                        }
+                }
+            }
+        }
+    }
+}
