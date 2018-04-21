@@ -39,6 +39,7 @@ public class BlockInit {
 	public static final Block BLOCK_CARPET_TAN = new BlockTrekCarpet("block_trek_carpet_tan", Main.TAB_MISC);
 	public static final Block BLOCK_CARPET_DEEP_RED = new BlockTrekCarpet("block_trek_carpet_deep_red", Main.TAB_MISC);
 	public static final Block BLOCK_CARPET_DARK_GREY = new BlockTrekCarpet("block_trek_carpet_dark_grey", Main.TAB_MISC);
+	public static final Block BLOCK_CARPET_GREY = new BlockTrekCarpet("block_trek_carpet_grey", Main.TAB_MISC);
 	//
 	/*
 	 * Carpet Corner Blocks
@@ -47,6 +48,7 @@ public class BlockInit {
 	public static final Block BLOCK_CARPET_CORNER_TAN = new BlockTrekCarpet("block_trek_carpet_corner_tan", Main.TAB_MISC);
 	public static final Block BLOCK_CARPET_CORNER_DEEP_RED = new BlockTrekCarpet("block_trek_carpet_corner_deep_red", Main.TAB_MISC);
 	public static final Block BLOCK_CARPET_CORNER_DARK_GREY = new BlockTrekCarpet("block_trek_carpet_corner_dark_grey", Main.TAB_MISC);
+	public static final Block BLOCK_CARPET_CORNER_GREY = new BlockTrekCarpet("block_trek_carpet_corner_grey", Main.TAB_MISC);
 	//
 	/*
 	 * Carpet Full Fabric Blocks
@@ -55,6 +57,7 @@ public class BlockInit {
 	public static final Block BLOCK_FABRIC_TAN = new BlockTrekFabric("block_fabric_tan", Main.TAB_MISC);
 	public static final Block BLOCK_FABRIC_DEEP_RED = new BlockTrekFabric("block_fabric_deep_red", Main.TAB_MISC);
 	public static final Block BLOCK_FABRIC_DARK_GREY = new BlockTrekFabric("block_fabric_dark_grey", Main.TAB_MISC);
+	public static final Block BLOCK_FABRIC_GREY = new BlockTrekFabric("block_fabric_grey", Main.TAB_MISC);
 	//
 	
 
@@ -646,6 +649,22 @@ public class BlockInit {
 	public static final Block BLOCK_TNG_CORRIDOR_TAN_LIGHT_BTM_DIAG = new BlockDiagonalLeft("block_tng_corridor_tan_light_btm_diag", Material.IRON, Main.TAB_TNG, 1.0f, 0, SoundType.METAL);
 	public static final Block BLOCK_TNG_CORRIDOR_TAN_LIGHT_MIDDLE_DIAG = new BlockDiagonalLeft("block_tng_corridor_tan_light_middle_diag", Material.IRON, Main.TAB_TNG, 1.0f, 0, SoundType.METAL);
 	public static final Block BLOCK_TNG_CORRIDOR_TAN_LIGHT_TOP_DIAG = new BlockDiagonalLeft("block_tng_corridor_tan_light_top_diag", Material.IRON, Main.TAB_TNG, 1.0f, 0, SoundType.METAL);
+	//
+	//	
+	/*
+	 * BRIDGE CONSOLES ENT D
+	 * 
+	 */
+//	public static final Block BLOCK_TNG_BRIDGE_CONSOLE_BTM = new BlockObj(
+//			"block_tng_bridge_console_btm", Material.IRON, Main.TAB_TNG, 1.0f, 0, SoundType.METAL);
+//	public static final Block BLOCK_TNG_BRIDGE_CONSOLE_MIDDLE = new BlockObj(
+//			"block_tng_bridge_console_middle", Material.IRON, Main.TAB_TNG, 1.0f, 0, SoundType.METAL);
+//	public static final Block BLOCK_TNG_BRIDGE_CONSOLE_TOP = new BlockObj(
+//			"block_tng_bridge_console_top", Material.IRON, Main.TAB_TNG, 1.0f, 0, SoundType.METAL);
+	//
+	
+	//
+	
 //
 	
 	
