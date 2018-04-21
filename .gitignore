@@ -1,5 +1,4 @@
 /bin/
-/build/
 /eclipse/
 /run/
 /.gradle/
@@ -18,5 +17,17 @@ gradle.properties
 build.gradle
 
 .classpath
-.classpath
-.classpath
+
+/.DS_Store
+/run/
+/build/
+.gradle/
+build.gradle
+gradle.properties
+gradlew
+gradlew.bat
+MineTrekMod_Client.launch
+MineTrekMod_Server.launch
+org.eclipse.jdt.core.prefs-.settings
+README.txt
+SetupWorkspace.sh
