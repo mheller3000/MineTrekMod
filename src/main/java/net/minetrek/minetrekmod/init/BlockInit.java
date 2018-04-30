@@ -960,6 +960,8 @@ public class BlockInit {
 	 */
 	public static final Block BLOCK_TMP_BRIDGE_STATION_1_BTM_LEFT = new BlockObj(
 			"block_tmp_bridge_station_1_btm_left", Material.IRON, Main.TAB_MOVIES, 1.0f, 0, SoundType.METAL);
+	public static final Block BLOCK_TMP_BRIDGE_STATION_1_BTM_LEFT_ALT = new BlockObj(
+			"block_tmp_bridge_station_1_btm_left_alt", Material.IRON, Main.TAB_MOVIES, 1.0f, 0, SoundType.METAL);
 	public static final Block BLOCK_TMP_BRIDGE_STATION_1_MIDDLE_LEFT = new BlockObj(
 			"block_tmp_bridge_station_1_middle_left", Material.IRON, Main.TAB_MOVIES, 1.0f, 0, SoundType.METAL);
 	public static final Block BLOCK_TMP_BRIDGE_STATION_1_TOP_LEFT = new BlockObj(
@@ -969,6 +971,8 @@ public class BlockInit {
 	//
 	public static final Block BLOCK_TMP_BRIDGE_STATION_1_BTM_CENTRE = new BlockObj(
 			"block_tmp_bridge_station_1_btm_centre", Material.IRON, Main.TAB_MOVIES, 1.0f, 0, SoundType.METAL);
+	public static final Block BLOCK_TMP_BRIDGE_STATION_1_BTM_CENTRE_ALT = new BlockObj(
+			"block_tmp_bridge_station_1_btm_centre_alt", Material.IRON, Main.TAB_MOVIES, 1.0f, 0, SoundType.METAL);
 	public static final Block BLOCK_TMP_BRIDGE_STATION_1_MIDDLE_CENTRE = new BlockObj(
 			"block_tmp_bridge_station_1_middle_centre", Material.IRON, Main.TAB_MOVIES, 1.0f, 0, SoundType.METAL);
 	public static final Block BLOCK_TMP_BRIDGE_STATION_1_TOP_CENTRE = new BlockObj(
@@ -978,6 +982,8 @@ public class BlockInit {
 	//
 	public static final Block BLOCK_TMP_BRIDGE_STATION_1_BTM_RIGHT = new BlockObj(
 			"block_tmp_bridge_station_1_btm_right", Material.IRON, Main.TAB_MOVIES, 1.0f, 0, SoundType.METAL);
+	public static final Block BLOCK_TMP_BRIDGE_STATION_1_BTM_RIGHT_ALT = new BlockObj(
+			"block_tmp_bridge_station_1_btm_right_alt", Material.IRON, Main.TAB_MOVIES, 1.0f, 0, SoundType.METAL);
 	public static final Block BLOCK_TMP_BRIDGE_STATION_1_MIDDLE_RIGHT = new BlockObj(
 			"block_tmp_bridge_station_1_middle_right", Material.IRON, Main.TAB_MOVIES, 1.0f, 0, SoundType.METAL);
 	public static final Block BLOCK_TMP_BRIDGE_STATION_1_TOP_RIGHT = new BlockObj(

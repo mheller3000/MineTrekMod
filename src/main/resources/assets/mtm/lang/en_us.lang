@@ -543,16 +543,19 @@ tile.block_tmp_corridor_angled_brown_top_split.name=TMP Corridor | Angled | Brow
 // TMP BRIDGE STATION BLOCKS
 //
 tile.block_tmp_bridge_station_1_btm_left.name=TMP Bridge Station | Bottom | Left
+tile.block_tmp_bridge_station_1_btm_left_alt.name=TMP Bridge Station | Bottom | Left | Alt
 tile.block_tmp_bridge_station_1_middle_left.name=TMP Bridge Station | Middle | Left
 tile.block_tmp_bridge_station_1_top_left.name=TMP Bridge Station | Top | Left
 tile.block_tmp_bridge_station_1_top_left_alert.name=TMP Bridge Station | Top | Left | Red Alert
 //
 tile.block_tmp_bridge_station_1_btm_centre.name=TMP Bridge Station | Bottom | Center
+tile.block_tmp_bridge_station_1_btm_centre_alt.name=TMP Bridge Station | Bottom | Center | Alt
 tile.block_tmp_bridge_station_1_middle_centre.name=TMP Bridge Station | Middle | Center
 tile.block_tmp_bridge_station_1_top_centre.name=TMP Bridge Station | Top | Center
 tile.block_tmp_bridge_station_1_top_centre_alert.name=TMP Bridge Station | Top | Center | Red Alert
 //
 tile.block_tmp_bridge_station_1_btm_right.name=TMP Bridge Station | Bottom | Right
+tile.block_tmp_bridge_station_1_btm_right_alt.name=TMP Bridge Station | Bottom | Right | Alt
 tile.block_tmp_bridge_station_1_middle_right.name=TMP Bridge Station | Middle | Right
 tile.block_tmp_bridge_station_1_top_right.name=TMP Bridge Station | Top | Right
 tile.block_tmp_bridge_station_1_top_right_alert.name=TMP Bridge Station | Top | Right | Red Alert

@@ -1,0 +1,85 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "custom": { "flip-v": true },
+        "model": "mtm:tmp/bridge_stations/tmp_bridge_station_btm_centre.obj",
+        "textures": {
+            "#tex_console_btm": "mtm:blocks/tmp/bridge_stations/tmp_bridge_station_btm_alt",
+            "#tex_console_btm_screen_centre": "mtm:blocks/tmp/bridge_stations/tmp_bridge_station_1_screen_btm_centre",
+            "tex_back": "mtm:blocks/tmp/rooms/blue_alt/tmp_room_blue_alt_btm_flush"
+        }
+    },
+    "variants": {
+        "normal": [{}],
+        "inventory": 
+        [{ 
+            "transform": 
+            {
+                "firstperson_righthand" :
+                 {
+                    "rotation" : [{"x": 0}, {"y": 225}, {"z": -5}],
+                    "translation" : [-0.1, 0.2, 0.0],
+                    "scale" :   [0.5, 0.5, 0.5]
+                 },
+                 "firstperson_lefthand" :
+                 {
+                    "rotation" : [{"x": 0}, {"y": 65}, {"z": -5}],
+                    "translation" : [-0.1, 0.2, 0.0],
+                    "scale" :   [0.5, 0.5, 0.5]
+                 },
+                "gui": 
+                {
+                    "rotation": [{"x":20}, {"y": 315}, {"z": 0}],
+                    "translation": [ 0, 0, 0 ],
+                    "scale":[ 0.65, 0.65, 0.65 ]
+                }
+            } 
+        }],
+        "facing": {
+            "north": {
+                "y": 270,
+                "model": "mtm:tmp/bridge_stations/tmp_bridge_station_btm_centre.obj",
+                "submodel": {
+                    "centre":{
+                        "model": "mtm:tng/corridor_angled_alt/tng_corridor_angled_alt_back",
+                        "y": 180 ,
+                        "flip-v": true 
+                        }
+                }                                               
+            },
+            "south": {
+                "y": 90,
+                "model": "mtm:tmp/bridge_stations/tmp_bridge_station_btm_centre.obj",               
+                "submodel": {
+                    "centre":{
+                        "model": "mtm:tng/corridor_angled_alt/tng_corridor_angled_alt_back",
+                        "y": 180 ,
+                        "flip-v": true 
+                        }
+                }
+            },
+            "west": {
+                "y": 180,
+                "model": "mtm:tmp/bridge_stations/tmp_bridge_station_btm_centre.obj",               
+                "submodel": {
+                    "centre":{
+                        "model": "mtm:tng/corridor_angled_alt/tng_corridor_angled_alt_back",
+                        "y": 180 ,
+                        "flip-v": true 
+                        }
+                }               
+            },
+            "east": {
+                "y": 0,
+                "model": "mtm:tmp/bridge_stations/tmp_bridge_station_btm_centre.obj",               
+                "submodel": {
+                    "centre":{
+                        "model": "mtm:tng/corridor_angled_alt/tng_corridor_angled_alt_back",
+                        "y": 180 ,
+                        "flip-v": true 
+                        }
+                }
+            }
+        }
+    }
+}
