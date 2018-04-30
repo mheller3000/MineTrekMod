@@ -1,0 +1,112 @@
+newmtl tex_console_brace_btm
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+map_Kd blocks/tmp/bridge_stations/tmp_brace_light_btm.png
+
+
+newmtl tex_console_brace_btm_end
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+map_Kd blocks/tmp/bridge_stations/tmp_brace_light_end_btm.png
+
+
+newmtl tex_console_brace_middle
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+map_Kd blocks/tmp/bridge_stations/tmp_brace_light_middle.png
+
+
+newmtl tex_console_brace_middle_end
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+map_Kd blocks/tmp/bridge_stations/tmp_brace_light_end_middle.png
+
+
+newmtl tex_console_brace_top
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+map_Kd blocks/tmp/bridge_stations/tmp_brace_light_top.png
+
+
+newmtl tex_console_brace_top_end
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+map_Kd blocks/tmp/bridge_stations/tmp_brace_light_end_top.png
+
+
+newmtl tex_console_btm
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+map_Kd blocks/tmp/bridge_stations/tmp_bridge_station_btm.png
+
+
+newmtl tex_console_btm_screen_centre
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+map_Kd blocks/tmp/bridge_stations/tmp_bridge_station_1_screen_btm_left.png
+
+
+newmtl tex_console_btm_screen_left
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+map_Kd blocks/tmp/bridge_stations/tmp_bridge_station_1_screen_btm_left.png
+
+
+newmtl tex_console_btm_screen_right
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+map_Kd blocks/tmp/bridge_stations/tmp_bridge_station_1_screen_btm_right.png
+
+
+newmtl tex_console_middle_screen_centre
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+map_Kd blocks/tmp/bridge_stations/tmp_bridge_station_1_screen_middle_centre.png
+
+
+newmtl tex_console_middle_screen_left
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+map_Kd blocks/tmp/bridge_stations/tmp_bridge_station_1_screen_middle_left.png
+
+
+newmtl tex_console_middle_screen_right
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+map_Kd blocks/tmp/bridge_stations/tmp_bridge_station_1_screen_middle_right.png
+
+
+newmtl tex_console_top_centre
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+map_Kd blocks/tmp/bridge_stations/tmp_bridge_station_1_screen_btm_left.png
+
+
+newmtl tex_console_top_left
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+map_Kd blocks/tmp/bridge_stations/tmp_bridge_station_1_screen_btm_left.png
+
+
+newmtl tex_console_top_right
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+map_Kd blocks/tmp/bridge_stations/tmp_bridge_station_1_screen_btm_right.png
+
+
+newmtl tex_console_top_screen_centre
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+map_Kd blocks/tmp/bridge_stations/tmp_bridge_station_1_screen_top_left.png
+
+
+newmtl tex_console_top_screen_left
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+map_Kd blocks/tmp/bridge_stations/tmp_bridge_station_1_screen_top_left.png
+
+
+newmtl tex_console_top_screen_right
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+map_Kd blocks/tmp/bridge_stations/tmp_bridge_station_1_screen_top_right.png

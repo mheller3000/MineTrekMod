@@ -954,4 +954,34 @@ public class BlockInit {
 			"block_tmp_corridor_angled_top_split", Material.IRON, Main.TAB_MOVIES, 1.0f, 0, SoundType.METAL);
 	//
 	//
+	/*
+	 * TMP BRIDGE STATION BLOCKS
+	 * 
+	 */
+	public static final Block BLOCK_TMP_BRIDGE_STATION_1_BTM_LEFT = new BlockObj(
+			"block_tmp_bridge_station_1_btm_left", Material.IRON, Main.TAB_MOVIES, 1.0f, 0, SoundType.METAL);
+	public static final Block BLOCK_TMP_BRIDGE_STATION_1_MIDDLE_LEFT = new BlockObj(
+			"block_tmp_bridge_station_1_middle_left", Material.IRON, Main.TAB_MOVIES, 1.0f, 0, SoundType.METAL);
+	public static final Block BLOCK_TMP_BRIDGE_STATION_1_TOP_LEFT = new BlockObj(
+			"block_tmp_bridge_station_1_top_left", Material.IRON, Main.TAB_MOVIES, 1.0f, 0, SoundType.METAL);
+	public static final Block BLOCK_TMP_BRIDGE_STATION_1_TOP_LEFT_ALERT = new BlockObj(
+			"block_tmp_bridge_station_1_top_left_alert", Material.IRON, Main.TAB_MOVIES, 1.0f, 0, SoundType.METAL);
+	//
+	public static final Block BLOCK_TMP_BRIDGE_STATION_1_BTM_CENTRE = new BlockObj(
+			"block_tmp_bridge_station_1_btm_centre", Material.IRON, Main.TAB_MOVIES, 1.0f, 0, SoundType.METAL);
+	public static final Block BLOCK_TMP_BRIDGE_STATION_1_MIDDLE_CENTRE = new BlockObj(
+			"block_tmp_bridge_station_1_middle_centre", Material.IRON, Main.TAB_MOVIES, 1.0f, 0, SoundType.METAL);
+	public static final Block BLOCK_TMP_BRIDGE_STATION_1_TOP_CENTRE = new BlockObj(
+			"block_tmp_bridge_station_1_top_centre", Material.IRON, Main.TAB_MOVIES, 1.0f, 0, SoundType.METAL);
+	public static final Block BLOCK_TMP_BRIDGE_STATION_1_TOP_CENTRE_ALERT = new BlockObj(
+			"block_tmp_bridge_station_1_top_centre_alert", Material.IRON, Main.TAB_MOVIES, 1.0f, 0, SoundType.METAL);
+	//
+	public static final Block BLOCK_TMP_BRIDGE_STATION_1_BTM_RIGHT = new BlockObj(
+			"block_tmp_bridge_station_1_btm_right", Material.IRON, Main.TAB_MOVIES, 1.0f, 0, SoundType.METAL);
+	public static final Block BLOCK_TMP_BRIDGE_STATION_1_MIDDLE_RIGHT = new BlockObj(
+			"block_tmp_bridge_station_1_middle_right", Material.IRON, Main.TAB_MOVIES, 1.0f, 0, SoundType.METAL);
+	public static final Block BLOCK_TMP_BRIDGE_STATION_1_TOP_RIGHT = new BlockObj(
+			"block_tmp_bridge_station_1_top_right", Material.IRON, Main.TAB_MOVIES, 1.0f, 0, SoundType.METAL);
+	public static final Block BLOCK_TMP_BRIDGE_STATION_1_TOP_RIGHT_ALERT = new BlockObj(
+			"block_tmp_bridge_station_1_top_right_alert", Material.IRON, Main.TAB_MOVIES, 1.0f, 0, SoundType.METAL);
 }

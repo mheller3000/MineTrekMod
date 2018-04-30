@@ -1,0 +1,16 @@
+# Blender v2.76 (sub 0) OBJ File: 'TMP Bridge Stations.blend'
+# www.blender.org
+mtllib tmp_bridge_stations.mtl
+o console_middle_Cube.001
+v 0.330000 0.000000 0.000000
+v 0.330000 0.000000 1.000000
+v 0.680000 1.000000 0.000000
+v 0.680000 1.000000 1.000000
+vt 1.000000 0.000000
+vt 1.000000 1.000000
+vt 0.004009 1.000000
+vt 0.000000 0.000000
+vn 0.943900 -0.330400 0.000000
+usemtl tex_console_middle_screen_centre
+f 1/1/1 3/2/1 4/3/1
+f 2/4/1 1/1/1 4/3/1

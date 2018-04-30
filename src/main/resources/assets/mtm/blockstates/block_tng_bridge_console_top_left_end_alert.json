@@ -2,7 +2,7 @@
     "forge_marker": 1,
     "defaults": {
         "custom": { "flip-v": true },
-        "model": "mtm:trek_consoles/trek_bridge_console_top_left_end.obj",
+        "model": "mtm:tng/bridge_consoles/tng_bridge_console_top_left_end.obj",
         "textures": {
             "#tex_trek_bridge_console_top": "mtm:blocks/tng/bridge_consoles/tng_bridge_consoles_top_alert",
             "tex_back": "mtm:blocks/tng/tng_wall_tan"
@@ -37,7 +37,7 @@
         "facing": {
             "north": {
                 "y": 180,
-                "model": "mtm:trek_consoles/trek_bridge_console_top_left_end.obj",
+                "model": "mtm:tng/bridge_consoles/tng_bridge_console_top_left_end.obj",
                 "submodel": {
                     "centre":{
                         "model": "mtm:tng/corridor_angled_alt/tng_corridor_angled_alt_back",
@@ -48,7 +48,7 @@
             },
             "south": {
                 "y": 0,
-                "model": "mtm:trek_consoles/trek_bridge_console_top_left_end.obj",                
+                "model": "mtm:tng/bridge_consoles/tng_bridge_console_top_left_end.obj",                
                 "submodel": {
                     "centre":{
                         "model": "mtm:tng/corridor_angled_alt/tng_corridor_angled_alt_back",
@@ -59,7 +59,7 @@
             },
             "west": {
                 "y": 90,
-                "model": "mtm:trek_consoles/trek_bridge_console_top_left_end.obj",                
+                "model": "mtm:tng/bridge_consoles/tng_bridge_console_top_left_end.obj",                
                 "submodel": {
                     "centre":{
                         "model": "mtm:tng/corridor_angled_alt/tng_corridor_angled_alt_back",
@@ -70,7 +70,7 @@
             },
             "east": {
                 "y": 270,
-                "model": "mtm:trek_consoles/trek_bridge_console_top_left_end.obj",                
+                "model": "mtm:tng/bridge_consoles/tng_bridge_console_top_left_end.obj",                
                 "submodel": {
                     "centre":{
                         "model": "mtm:tng/corridor_angled_alt/tng_corridor_angled_alt_back",
