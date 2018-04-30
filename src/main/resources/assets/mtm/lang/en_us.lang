@@ -409,6 +409,19 @@ item.door_tng_grey.name=TNG Grey Door
 //
 // Angled Corridors
 //
+tile.block_tmp_wall_blue.name=TMP Wall | Blue
+tile.block_tmp_wall_dark_blue.name=TMP Wall | Dark Blue
+tile.block_tmp_wall_brown.name=TMP Wall | Brown
+tile.block_tmp_wall_dark_brown.name=TMP Wall | Dark Brown
+tile.block_tmp_wall_light_brown.name=TMP Wall | Light Brown
+tile.block_tmp_wall_dark.name=TMP Wall | Dark
+tile.block_tmp_wall_medium.name=TMP Wall | Medium
+tile.block_tmp_wall_light.name=TMP Wall | Light
+//
+
+//
+// Angled Corridors
+//
 tile.block_tmp_corridor_angled_btm_flush.name=TMP Corridor | Angled | Bottom
 tile.block_tmp_corridor_angled_btm_left.name=TMP Corridor | Angled | Bottom | Left
 tile.block_tmp_corridor_angled_btm_right.name=TMP Corridor | Angled | Bottom | Right

@@ -725,7 +725,19 @@ public class BlockInit {
 	
 	
 	//- M O V I E   E R A    B L O C K S
-		//
+    //
+	/*
+	 * FILLER WALL BLOCKS
+	 */
+	public static final Block BLOCK_TMP_WALL_BLUE = new BlockBase("block_tmp_wall_blue", Material.IRON, Main.TAB_MOVIES, 1.0f, 0, SoundType.METAL);
+	public static final Block BLOCK_TMP_WALL_DARK_BLUE = new BlockBase("block_tmp_wall_dark_blue", Material.IRON, Main.TAB_MOVIES, 1.0f, 0, SoundType.METAL);
+	public static final Block BLOCK_TMP_WALL_LIGHT_BROWN = new BlockBase("block_tmp_wall_light_brown", Material.IRON, Main.TAB_MOVIES, 1.0f, 0, SoundType.METAL);
+	public static final Block BLOCK_TMP_WALL_BROWN = new BlockBase("block_tmp_wall_brown", Material.IRON, Main.TAB_MOVIES, 1.0f, 0, SoundType.METAL);
+	public static final Block BLOCK_TMP_WALL_DARK_BROWN = new BlockBase("block_tmp_wall_dark_brown", Material.IRON, Main.TAB_MOVIES, 1.0f, 0, SoundType.METAL);
+	public static final Block BLOCK_TMP_WALL_DARK = new BlockBase("block_tmp_wall_dark", Material.IRON, Main.TAB_MOVIES, 1.0f, 0, SoundType.METAL);
+	public static final Block BLOCK_TMP_WALL_MEDIUM = new BlockBase("block_tmp_wall_medium", Material.IRON, Main.TAB_MOVIES, 1.0f, 0, SoundType.METAL);
+	public static final Block BLOCK_TMP_WALL_LIGHT = new BlockBase("block_tmp_wall_light", Material.IRON, Main.TAB_MOVIES, 1.0f, 0, SoundType.METAL);
+	//	
 	/*
 	 * MOVIES CORRIDOR ANGLED BROWN
 	 * 
