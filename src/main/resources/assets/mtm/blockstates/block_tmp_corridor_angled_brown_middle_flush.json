@@ -5,7 +5,7 @@
         "model": "mtm:tng/corridor_angled_alt/model_tng_corridor_angled_alt_middle_flush.obj",
         "textures": {
             "#tex_middle": "mtm:blocks/tmp/corridors/angled_brown/tmp_corridor_angled_brown_middle_flush",
-            "tex_back": "mtm:blocks/tng/rooms/pale/tng_room_pale_middle_flush"
+            "tex_back": "mtm:blocks/tmp/rooms/blue_alt/tmp_room_blue_alt_middle_flush"
         }
     },
     "variants": {
