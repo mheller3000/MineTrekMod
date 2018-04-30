@@ -6,7 +6,7 @@
         "textures": {            
             "#tex_console_top_centre": "mtm:blocks/tmp/bridge_stations/tmp_bridge_station_1_screen_btm_centre",
             "#tex_console_top_screen_centre": "mtm:blocks/tmp/bridge_stations/tmp_bridge_station_1_screen_top_centre_alert",
-            "tex_back": "mtm:blocks/tmp/rooms/blue_alt/tmp_room_blue_alt_top_right"
+            "tex_back": "mtm:blocks/tmp/rooms/blue_alt/tmp_room_blue_alt_top_flush"
         }
     },
     "variants": {
