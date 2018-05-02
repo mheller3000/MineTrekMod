@@ -1,0 +1,168 @@
+# Blender MTL File: 'sovereign_corridor_v2.blend'
+# Material Count: 21
+
+newmtl tex_corridor_brace_btm
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+map_Kd E:\Dev\minecrafting\mdta-minetrek\-editables\tex\tng_movies\sovereign\tng_movies_corridor_brace_btm.png
+
+
+
+newmtl tex_corridor_brace_middle
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+map_Kd E:\Dev\minecrafting\mdta-minetrek\-editables\tex\tng_movies\sovereign\tng_movies_corridor_brace_middle.png
+
+
+
+newmtl tex_corridor_brace_top
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+map_Kd E:\Dev\minecrafting\mdta-minetrek\-editables\tex\tng_movies\sovereign\tng_movies_corridor_brace_top.png
+
+
+
+
+
+
+
+newmtl tex_corridor_brace_end_btm
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+map_Kd E:\Dev\minecrafting\mdta-minetrek\-editables\tex\tng_movies\sovereign\tng_movies_corridor_brace_end_btm.png
+
+
+
+newmtl tex_corridor_brace_end_middle
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+map_Kd E:\Dev\minecrafting\mdta-minetrek\-editables\tex\tng_movies\sovereign\tng_movies_corridor_brace_end_middle.png
+
+
+
+newmtl tex_corridor_brace_end_top
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+map_Kd E:\Dev\minecrafting\mdta-minetrek\-editables\tex\tng_movies\sovereign\tng_movies_corridor_brace_end_btm.png
+
+
+
+
+
+
+newmtl tex_corridor_btm_flush
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+map_Kd E:\Dev\minecrafting\mdta-minetrek\-editables\tex\tng_movies\sovereign\tng_movies_corridor_01_btm_flush.png
+
+
+
+newmtl tex_corridor_btm_left
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+map_Kd E:\Dev\minecrafting\mdta-minetrek\-editables\tex\tng_movies\sovereign\tng_movies_corridor_01_btm_left.png
+
+
+
+newmtl tex_corridor_btm_right
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+map_Kd E:\Dev\minecrafting\mdta-minetrek\-editables\tex\tng_movies\sovereign\tng_movies_corridor_01_btm_right.png
+
+
+
+
+
+newmtl tex_corridor_middle_flush
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+map_Kd E:\Dev\minecrafting\mdta-minetrek\-editables\tex\tng_movies\sovereign\tng_movies_corridor_01_middle_flush.png
+
+
+
+newmtl tex_corridor_middle_left
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+map_Kd E:\Dev\minecrafting\mdta-minetrek\-editables\tex\tng_movies\sovereign\tng_movies_corridor_01_middle_left.png
+
+
+
+newmtl tex_corridor_middle_right
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+map_Kd E:\Dev\minecrafting\mdta-minetrek\-editables\tex\tng_movies\sovereign\tng_movies_corridor_01_middle_right.png
+
+
+
+
+
+
+newmtl tex_corridor_top_flush
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+map_Kd E:\Dev\minecrafting\mdta-minetrek\-editables\tex\tng_movies\sovereign\tng_movies_corridor_01_top_flush.png
+
+
+
+newmtl tex_corridor_top_left
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+map_Kd E:\Dev\minecrafting\mdta-minetrek\-editables\tex\tng_movies\sovereign\tng_movies_corridor_01_top_left.png
+
+
+
+newmtl tex_corridor_top_right
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+map_Kd E:\Dev\minecrafting\mdta-minetrek\-editables\tex\tng_movies\sovereign\tng_movies_corridor_01_top_right.png
+
+
+
+
+
+
+newmtl tex_corridor_diag_btm_flush
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+map_Kd E:\Dev\minecrafting\mdta-minetrek\-editables\tex\tng_movies\sovereign\tng_movies_corridor_01_diag_btm_flush.png
+
+
+
+newmtl tex_corridor_diag_btm_split
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+map_Kd E:\Dev\minecrafting\mdta-minetrek\-editables\tex\tng_movies\sovereign\tng_movies_corridor_01_diag_btm_flush.png
+
+
+
+
+
+
+newmtl tex_corridor_diag_middle_flush
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+map_Kd E:\Dev\minecrafting\mdta-minetrek\-editables\tex\tng_movies\sovereign\tng_movies_corridor_01_diag_middle_flush.png
+
+
+
+newmtl tex_corridor_diag_middle_split
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+map_Kd E:\Dev\minecrafting\mdta-minetrek\-editables\tex\tng_movies\sovereign\tng_movies_corridor_01_diag_middle_split.png
+
+
+
+
+
+
+newmtl tex_corridor_diag_top_flush
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+map_Kd E:\Dev\minecrafting\mdta-minetrek\-editables\tex\tng_movies\sovereign\tng_movies_corridor_01_diag_top_flush.png
+
+
+
+newmtl tex_corridor_diag_top_split
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+map_Kd E:\Dev\minecrafting\mdta-minetrek\-editables\tex\tng_movies\sovereign\tng_movies_corridor_01_diag_top_split.png
