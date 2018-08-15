@@ -1,5 +1,50 @@
 Changelog:
-Build 2739:
+Build 2750:
+	1036527+thommy101:
+		Fixed Redstone and RedstoneDiodes placement on modded blocks that use
+		BlockFaceShape.SOLID for Top.  (#5100)
+
+Build 1.12.2-14.23.4.2749:
+	daemon.umbra: Fix blank Server GUI console log (#5089)
+
+Build 1.12.2-14.23.4.2748:
+	mezz: Fix SlotItemHandler.isItemValid check
+
+Build 1.12.2-14.23.4.2747:
+	mezz: Improve performance of FluidRegistry.getBucketFluids
+
+Build 1.12.2-14.23.4.2746:
+	bs2609:
+		Fix received data for last vertex format element not being recorded
+		(#5074)
+
+Build 1.12.2-14.23.4.2745:
+	Karthas077: Fix missing lang entry for Swim Speed attribute (#5064)
+
+Build 1.12.2-14.23.4.2744:
+	Karthas077: Added Swim Speed Attribute to EntityLivingBase (#4990)
+
+Build 1.12.2-14.23.4.2743:
+	bs2609: Add function to lookup model location for an ItemStack (#5017)
+
+Build 1.12.2-14.23.4.2742:
+	gegy1000:
+		Resource type sensitive ResourceManager reloading, Disabled by default,
+		but may increase performance. (#4658)
+	bs2609: Allow custom SpawnPlacementType registration (#4973)
+
+Build 1.12.2-14.23.4.2741:
+	InsomniaKitten: Added CreativeTabs#getBackgroundImage (#5034)
+	cbrittain10:
+		Add functionality in IItemHandler to test if a slot can accept an item
+		(#5033)
+	bs2609: Fire colour events for mesa and swamp biomes (#5029)
+	Bward7864: Improve crash report details (#5011)
+
+Build 1.12.2-14.23.4.2740:
+	Chollis81: Add wooden doors to the OreDictionary. (#5036)
+
+Build 1.12.2-14.23.4.2739:
 	bs2609: Update and clean up Forge fluid render model (#4763)
 
 Build 1.12.2-14.23.4.2738:
