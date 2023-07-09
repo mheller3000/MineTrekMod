@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_all",
+    "ambientocclusion": false,
+    "textures": {
+        "all": "mtm:blocks/tng_movies/tng_movies_jt_blocks/tng_movies_jt_blocks_sov_lower_jt_corridor_3_beige_alt"
+    }
+}

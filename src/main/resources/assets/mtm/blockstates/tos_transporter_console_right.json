@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "mtm:tos/tos_transporter_console_right" },
+        "facing=south": { "model": "mtm:tos/tos_transporter_console_right", "y": 180 },
+        "facing=west":  { "model": "mtm:tos/tos_transporter_console_right", "y": 270 },
+        "facing=east":  { "model": "mtm:tos/tos_transporter_console_right", "y": 90 }
+    }
+}

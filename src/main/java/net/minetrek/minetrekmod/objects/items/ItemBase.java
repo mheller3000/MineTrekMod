@@ -3,7 +3,7 @@ package net.minetrek.minetrekmod.objects.items;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemBlock;
-import net.minetrek.minetrekmod.Main;
+import net.minetrek.minetrekmod.MineTrekMod;
 import net.minetrek.minetrekmod.init.ItemInit;
 import net.minetrek.minetrekmod.init.BlockInit;
 import net.minetrek.minetrekmod.util.interfaces.IHasModel;
@@ -47,6 +47,6 @@ public class ItemBase extends Item implements IHasModel{
 	 */
 	@Override
 	public void registerModels() {
-	Main.proxy.registerItemRenderer(this, 0, "References.Default_Variant");
+	MineTrekMod.proxy.registerItemRenderer(this, 0, "References.Default_Variant");
 	}
 }

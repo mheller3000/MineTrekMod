@@ -18,7 +18,7 @@ import net.minecraft.util.SoundCategory;
 import net.minecraft.util.SoundEvent;
 import net.minecraft.util.math.BlockPos;
 import net.minecraft.world.World;
-import net.minetrek.minetrekmod.Main;
+import net.minetrek.minetrekmod.MineTrekMod;
 import net.minetrek.minetrekmod.init.BlockInit;
 import net.minetrek.minetrekmod.init.ItemInit;
 import net.minetrek.minetrekmod.util.References;
@@ -51,7 +51,7 @@ public class ItemDoorBase extends ItemDoor implements IHasModel {
 	@Override
 	public void registerModels()
 	{
-		Main.proxy.registerItemRenderer(this, 0, References.DEFAULT_VARIANT);
-		Main.logger.info("AWOOGA Added ItemDoor: " + this.getRegistryName().toString());
+		MineTrekMod.proxy.registerItemRenderer(this, 0, References.DEFAULT_VARIANT);
+		MineTrekMod.logger.info("AWOOGA Added ItemDoor: " + this.getRegistryName().toString());
 	}
 }

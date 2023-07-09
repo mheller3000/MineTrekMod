@@ -6,7 +6,7 @@ import net.minecraftforge.client.event.ModelRegistryEvent;
 import net.minecraftforge.event.RegistryEvent;
 import net.minecraftforge.fml.common.Mod.EventBusSubscriber;
 import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
-import net.minetrek.minetrekmod.Main;
+import net.minetrek.minetrekmod.MineTrekMod;
 import net.minetrek.minetrekmod.init.BlockInit;
 import net.minetrek.minetrekmod.init.ItemInit;
 import net.minetrek.minetrekmod.util.References;

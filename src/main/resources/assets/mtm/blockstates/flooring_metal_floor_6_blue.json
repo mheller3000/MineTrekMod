@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "mtm:flooring/flooring_metal_floor_6_blue" },
+        "facing=south": { "model": "mtm:flooring/flooring_metal_floor_6_blue", "y": 180 },
+        "facing=west":  { "model": "mtm:flooring/flooring_metal_floor_6_blue", "y": 270 },
+        "facing=east":  { "model": "mtm:flooring/flooring_metal_floor_6_blue", "y": 90 }
+    }
+}

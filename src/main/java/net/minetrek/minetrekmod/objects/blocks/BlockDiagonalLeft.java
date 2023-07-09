@@ -26,7 +26,7 @@ import net.minecraft.world.World;
 import net.minecraftforge.client.model.obj.OBJLoader;
 import net.minecraftforge.fml.relauncher.Side;
 import net.minecraftforge.fml.relauncher.SideOnly;
-import net.minetrek.minetrekmod.Main;
+import net.minetrek.minetrekmod.MineTrekMod;
 import net.minetrek.minetrekmod.init.BlockInit;
 import net.minetrek.minetrekmod.init.ItemInit;
 import net.minetrek.minetrekmod.util.References;

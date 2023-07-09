@@ -8,7 +8,7 @@ import net.minecraft.util.ResourceLocation;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
-import net.minetrek.minetrekmod.Main;
+import net.minetrek.minetrekmod.MineTrekMod;
 import net.minetrek.minetrekmod.util.References;
 import net.minetrek.minetrekmod.util.handlers.RegistryHandler;
 
@@ -43,7 +43,7 @@ public class ClientProxy extends CommonProxy{
 	{
 		super.preInit(event);
 		
-		Main.logger.debug("AWOOGA - ClientProxy: OBJLoader will now add the domain " + References.MODID + ":");
+		MineTrekMod.logger.debug("AWOOGA - ClientProxy: OBJLoader will now add the domain " + References.MODID + ":");
 		OBJLoader.INSTANCE.addDomain(References.MODID);
 	}
 	

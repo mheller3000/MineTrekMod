@@ -15,7 +15,7 @@ import net.minecraft.util.EnumFacing;
 import net.minecraft.util.EnumHand;
 import net.minecraft.util.math.BlockPos;
 import net.minecraft.world.World;
-import net.minetrek.minetrekmod.Main;
+import net.minetrek.minetrekmod.MineTrekMod;
 import net.minetrek.minetrekmod.init.BlockInit;
 import net.minetrek.minetrekmod.init.ItemInit;
 import net.minetrek.minetrekmod.util.References;
@@ -153,8 +153,8 @@ public class BlockFacing extends BlockHorizontal implements IHasModel
 	@Override
 	public void registerModels()
 	{
-		Main.proxy.registerItemRenderer(Item.getItemFromBlock(this), 0, References.DEFAULT_VARIANT);
-		Main.logger.info("AWOOGA Added Item from Block: " + this.getRegistryName().toString());
+		MineTrekMod.proxy.registerItemRenderer(Item.getItemFromBlock(this), 0, References.DEFAULT_VARIANT);
+		MineTrekMod.logger.info("AWOOGA Added Item from Block: " + this.getRegistryName().toString());
 	}
 
 }

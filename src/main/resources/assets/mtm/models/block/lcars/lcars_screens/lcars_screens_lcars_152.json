@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_all",
+    "ambientocclusion": false,
+    "textures": {
+        "all": "mtm:blocks/lcars/lcars_screens/lcars_screens_lcars_152"
+    }
+}

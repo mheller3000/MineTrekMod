@@ -4,7 +4,7 @@ import net.minecraft.block.material.Material;
 import net.minecraft.block.state.IBlockState;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.Item;
-import net.minetrek.minetrekmod.Main;
+import net.minetrek.minetrekmod.MineTrekMod;
 import net.minetrek.minetrekmod.util.References;
 import net.minetrek.minetrekmod.util.interfaces.IHasModel;
 
@@ -36,7 +36,7 @@ public class BlockTrekFabric extends BlockBase implements IHasModel
 	@Override
 	public void registerModels()
 	{
-		Main.proxy.registerItemRenderer(Item.getItemFromBlock(this), 0, References.DEFAULT_VARIANT);
+		MineTrekMod.proxy.registerItemRenderer(Item.getItemFromBlock(this), 0, References.DEFAULT_VARIANT);
 	}
 
 }

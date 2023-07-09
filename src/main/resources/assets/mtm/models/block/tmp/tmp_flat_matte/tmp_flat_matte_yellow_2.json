@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_all",
+    "ambientocclusion": false,
+    "textures": {
+        "all": "mtm:blocks/tmp/tmp_flat_matte/tmp_flat_matte_yellow_2"
+    }
+}

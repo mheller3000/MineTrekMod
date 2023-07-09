@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "mtm:room_blocks/room_blocks_kitchen/room_blocks_kitchen_oven_top_1" },
+        "facing=south": { "model": "mtm:room_blocks/room_blocks_kitchen/room_blocks_kitchen_oven_top_1", "y": 180 },
+        "facing=west":  { "model": "mtm:room_blocks/room_blocks_kitchen/room_blocks_kitchen_oven_top_1", "y": 270 },
+        "facing=east":  { "model": "mtm:room_blocks/room_blocks_kitchen/room_blocks_kitchen_oven_top_1", "y": 90 }
+    }
+}

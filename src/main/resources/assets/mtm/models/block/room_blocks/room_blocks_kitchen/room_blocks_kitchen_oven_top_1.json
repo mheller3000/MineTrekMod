@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_all",
+    "ambientocclusion": false,
+    "textures": {
+        "all": "mtm:blocks/room_blocks/room_blocks_kitchen/room_blocks_kitchen_oven_top_1"
+    }
+}

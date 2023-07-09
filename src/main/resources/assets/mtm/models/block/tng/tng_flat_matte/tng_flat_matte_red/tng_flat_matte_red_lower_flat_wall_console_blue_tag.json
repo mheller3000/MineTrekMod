@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_all",
+    "ambientocclusion": false,
+    "textures": {
+        "all": "mtm:blocks/tng/tng_flat_matte/tng_flat_matte_red/tng_flat_matte_red_lower_flat_wall_console_blue_tag"
+    }
+}

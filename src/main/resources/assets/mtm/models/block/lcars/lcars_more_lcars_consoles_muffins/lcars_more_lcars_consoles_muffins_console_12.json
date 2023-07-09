@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_all",
+    "ambientocclusion": false,
+    "textures": {
+        "all": "mtm:blocks/lcars/lcars_more_lcars_consoles_muffins/lcars_more_lcars_consoles_muffins_console_12"
+    }
+}

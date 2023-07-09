@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_all",
+    "ambientocclusion": false,
+    "textures": {
+        "all": "mtm:blocks/tmp/tmp_cushioned/tmp_cushioned_red_3"
+    }
+}

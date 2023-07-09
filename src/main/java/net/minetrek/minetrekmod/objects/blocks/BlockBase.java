@@ -6,7 +6,7 @@ import net.minecraft.block.material.Material;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemBlock;
-import net.minetrek.minetrekmod.Main;
+import net.minetrek.minetrekmod.MineTrekMod;
 import net.minetrek.minetrekmod.init.BlockInit;
 import net.minetrek.minetrekmod.init.ItemInit;
 import net.minetrek.minetrekmod.util.References;
@@ -84,7 +84,7 @@ public class BlockBase extends Block implements IHasModel {
 		
 	@Override
 	public void registerModels() {
-	Main.proxy.registerItemRenderer(Item.getItemFromBlock(this), 0, "References.Default_Variant");
-	Main.logger.info("AWOOGA Added Item from Block: " + this.getRegistryName().toString());
+	MineTrekMod.proxy.registerItemRenderer(Item.getItemFromBlock(this), 0, "References.Default_Variant");
+	MineTrekMod.logger.info("AWOOGA Added Item from Block: " + this.getRegistryName().toString());
 	}
 }

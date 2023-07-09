@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_all",
+    "ambientocclusion": false,
+    "textures": {
+        "all": "mtm:blocks/tos/tos_corridor_intercom_muffins/tos_corridor_intercom_muffins_up"
+    }
+}

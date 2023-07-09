@@ -14,7 +14,7 @@ import net.minecraft.world.IBlockAccess;
 import net.minecraftforge.client.model.obj.OBJLoader;
 import net.minecraftforge.fml.relauncher.Side;
 import net.minecraftforge.fml.relauncher.SideOnly;
-import net.minetrek.minetrekmod.Main;
+import net.minetrek.minetrekmod.MineTrekMod;
 import net.minetrek.minetrekmod.init.BlockInit;
 import net.minetrek.minetrekmod.init.ItemInit;
 import net.minetrek.minetrekmod.util.References;
@@ -94,10 +94,10 @@ public class BlockObj extends BlockFacing implements IHasModel
 	@Override
 	public void registerModels()
 	{
-		Main.logger.debug("AWOOGA - BlockObj: OBJLoader will now add the domain " + References.MODID + ":");
+		MineTrekMod.logger.debug("AWOOGA - BlockObj: OBJLoader will now add the domain " + References.MODID + ":");
 		OBJLoader.INSTANCE.addDomain(References.MODID);
 
-		Main.proxy.registerItemRenderer(Item.getItemFromBlock(this), 0, References.DEFAULT_VARIANT);
-		Main.logger.info("AWOOGA Added Item from BlockObj: " + this.getRegistryName().toString());
+		MineTrekMod.proxy.registerItemRenderer(Item.getItemFromBlock(this), 0, References.DEFAULT_VARIANT);
+		MineTrekMod.logger.info("AWOOGA Added Item from BlockObj: " + this.getRegistryName().toString());
 	}
 }

@@ -8,7 +8,7 @@ import net.minetrek.minetrekmod.objects.items.ItemBase;
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
 import net.minecraft.init.Blocks;
-import net.minetrek.minetrekmod.Main;
+import net.minetrek.minetrekmod.MineTrekMod;
 import net.minetrek.minetrekmod.objects.blocks.BlockTNGCore;
 import net.minetrek.minetrekmod.objects.blocks.BlockTrekDoor;
 import net.minetrek.minetrekmod.objects.items.ItemBase;
@@ -35,6 +35,10 @@ public class ItemInit {
 	public static final Item ITEM_25TH_ICON = new ItemBase("item_25th_icon", null);
 	public static final Item ITEM_26TH_ICON = new ItemBase("item_26th_icon", null);
 	public static final Item ITEM_29THTO31ST_ICON = new ItemBase("item_29thto31st_icon", null);
+	public static final Item ITEM_32ND_ICON = new ItemBase("item_32nd_icon", null);
 	public static final Item ITEM_JJ_ICON = new ItemBase("item_jj_icon", null);
+	public static final Item ITEM_HULL_FLATBLOCKSBG_ICON = new ItemBase("item_hull_flatblocksbg_icon", null);
+	public static final Item ITEM_LCARS_ICON = new ItemBase("item_lcars_icon", null);
 	public static final Item ITEM_MISC_ICON = new ItemBase("item_misc_icon", null);
+
 }

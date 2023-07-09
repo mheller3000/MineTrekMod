@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_all",
+    "ambientocclusion": false,
+    "textures": {
+        "all": "mtm:blocks/hull_flatblocksbg/hull_flatblocksbg_aether_orange_3"
+    }
+}

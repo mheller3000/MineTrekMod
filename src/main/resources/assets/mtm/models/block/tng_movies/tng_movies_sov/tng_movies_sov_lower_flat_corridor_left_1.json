@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_all",
+    "ambientocclusion": false,
+    "textures": {
+        "all": "mtm:blocks/tng_movies/tng_movies_sov/tng_movies_sov_lower_flat_corridor_left_1"
+    }
+}

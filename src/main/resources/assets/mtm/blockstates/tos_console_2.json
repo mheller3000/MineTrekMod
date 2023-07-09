@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "mtm:tos/tos_console_2" },
+        "facing=south": { "model": "mtm:tos/tos_console_2", "y": 180 },
+        "facing=west":  { "model": "mtm:tos/tos_console_2", "y": 270 },
+        "facing=east":  { "model": "mtm:tos/tos_console_2", "y": 90 }
+    }
+}

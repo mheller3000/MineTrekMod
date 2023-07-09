@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_all",
+    "ambientocclusion": false,
+    "textures": {
+        "all": "mtm:blocks/room_blocks/room_blocks_patterns/room_blocks_patterns_middle_blue"
+    }
+}

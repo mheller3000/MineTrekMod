@@ -1,0 +1,6 @@
+{
+    "variants": 
+    {
+        "normal": { "model": "mtm:room_blocks/room_blocks_computer/room_blocks_computer_isolinear_board_1" }
+    }
+}

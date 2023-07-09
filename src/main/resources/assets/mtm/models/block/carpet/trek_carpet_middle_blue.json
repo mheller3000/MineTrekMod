@@ -1,0 +1,7 @@
+{
+    "parent": "mtm:block/carpet/model_trek_carpet",
+    "textures": {
+        "particle": "mtm:blocks/carpet/carpet_middle_blue",
+        "wool": "mtm:blocks/carpet/carpet_middle_blue"
+    }
+}

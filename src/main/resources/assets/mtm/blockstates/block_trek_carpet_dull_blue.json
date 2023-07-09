@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "mtm:carpet/trek_carpet_dull_blue" },
+        "facing=south": { "model": "mtm:carpet/trek_carpet_dull_blue"},
+        "facing=west":  { "model": "mtm:carpet/trek_carpet_dull_blue"},
+        "facing=east":  { "model": "mtm:carpet/trek_carpet_dull_blue"}
+    }
+}

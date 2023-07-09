@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_all",
+    "ambientocclusion": false,
+    "textures": {
+        "all": "mtm:blocks/tng/tng_cushioned/tng_cushioned_green/tng_cushioned_green_base"
+    }
+}
